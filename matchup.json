@@ -1,0 +1,2147 @@
+{
+	"matchups": { 
+		"aatrox": {
+			"id": 266,
+			"difficulty": 5,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "Do not trade with Aatrox when it has its active liabilities. He has a very long recovery time, so as soon as he uses it, do not try to exchange with him. Do your best to dodge its strengths or you will suffer a lot of damage. If you are hit by his W, you can dodge it, sideways and back. Do not fight it in its ult, unless you already have obvious injuries. It will heal your damage.",
+			"tips": [
+				"Do not trade with Aatrox when it has his passive active. It has a very long cooldown. Trade when its down", 
+				"Do your best to dodge the sweet spots",
+				"If you get hit by his W you can e out of it to the side and back",
+				"Do not fight Aatrox in his ult, unless you have greivous he will outheal your damage"
+			],
+			"summoners": [
+				"Flash",
+				"Ignite"
+			],
+			"build_items": [
+				"Mortal Reminder",
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": [
+				"Bone Plating",
+				"Overgrowth"
+			],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+			
+		},
+		"ahri": {
+			"id": 103,
+			"difficulty": 7,
+			"start_items": ["Doran's Blade", "Potion"],
+			"strategy": "Never give her Q3 if she has charm. You take his full combo in your face and you die. Do your best to dodge his Q poke at the start of the game, especially the return that does real damage. At level 6, it is more difficult to kill her because she is very mobile. Bait its charm and then look for short exchanges or an all-in if you can. Never send her an adult if she has her ult in place, or she will just walk away and live.",
+			"tips": [
+				"Ahri's survival skills are considerably reduced when his ultimate skill, Spiritual assault, is not available.",
+				"Stay behind the minions to prevent Charme from touching you easily. This greatly reduces Ahri's offensive potential."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+				
+		
+		},
+		"akali": {
+			"id": 84,
+			"difficulty": 8,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "Akali is annoying because of her Q spam, shroud, and dashes. Never give her a Q3 when she has an E in the air, or she'll just dodge it; his E will stun you and you will be within range. Do your best to dodge his poke Q in the early game. A big piece of HP is not worth a single cs. Use your E before you have Q3 so you can hit her more easily. Early null-magic mantle is good especially if the lane is even.",
+			"tips": [
+				"When Akali is cloaked by Nebulous Shroud, she can still be hit by area effects. This momentarily reveals his position.",
+				"Akali's Kunais Wave is powerful when used at maximum range and with maximum energy. Attack her when she has low energy left to increase your chances of winning your trades.",
+				"Return to base if your HP is low and if Akali has her ultimate."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		},
+		"akshan": {
+			"id": 166, 
+			"difficulty": 9,
+			"start_items": ["Doran's Blade", "Potion"],
+			"strategy": "Akshan is very oppressive at first. You can't fight him until you have zerks and vampire staff. Play around with the aim of scaling and hitting your item spikes. Do your best to farm without taking too much poke or you will be susceptible to ganks/dives. Don't stay in the wave because he will Q the wave, damaging you and pushing the wave at the same time. The more targets his Q hits, the further the wave will go.",
+			"tips": [
+				"play passive till vampire staff and berserkers, focus on farm"
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Revitalize",
+					"Armor"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		},
+		"anivia": {
+			"id": 34,
+			"difficulty": 5,
+			"start_items": ["Doran's Blade", "Potion"],
+			"strategy": "Anivia is boring, but this matchup is balanced. You MUST dodge his Q or you'll take his combo and get chunked. Bait his Q by rolling Es and running sideways. You can also do a forward E when she throws a wall at you. Your E will go behind the wall; use this to escape a gank or to save your life. At level 6, most anivias will just do perma shove, so you can just play scale and farm for your items.",
+			"tips": [
+				"Try to gank Anivia on a lane. With multiple people, it's easier to make sure her egg dies.",
+				"If you're a ranged champion, staying far enough away from Anivia makes it easier to dodge Ice Spear.",
+				"Try to fight Anivia in the lanes. In the jungle, she can block paths with Crystallization."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		},
+		"annie": {
+			"id": 1, 
+			"difficulty": 6,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "Rush null-magic mantle in this matchup and she will never one-shot you with her combo. Use your W when she Qs you to mitigate damage during the trade. She will seek to harass you with her long-range AA. Look to turn her on as soon as she uses her passive stun. She will have no way to recover and will have to flash.",
+			"tips": [
+				"Annie's bear, Tibbers, burns enemies around him. Keep your distance when summoned.",
+				"The summoner spell Smite can help bring down Tibbers.",
+				"Be careful when a small white whirlpool surrounds Annie: it means that she can stun you."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"aurelion": {
+			"id": 136,
+			"difficulty": 2,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "This matchup is pretty easy, just do your best not to let him sting you with his W or AA. Most ASols will go for push and roam, so farm and ping mia so your team doesn't die from roams. You can dodge his Q by correctly using your E and/or your Q3. When he attacks you, you can also use your ult and you won't be knocked back for hitting him with it.",
+			"tips": [
+				"Try to enter the area bounded by its stars, because then they can no longer hurt you.",
+				"His stars disappear when he is stunned or silenced, giving you the opportunity to attack safely.",
+				"His speed increases when he moves in a straight line, but dealing damage to him causes him to lose momentum.",
+				"His Stellogenesis skill can grow to cover a huge area. Don't stay too long in one place!"
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"azir": {
+			"id": 268,
+			"difficulty": 6,
+			"start_items": [ "Doran's Blade", "Potion"],
+			"strategy": "This matchup is fairly balanced, provided you don't let it harass you for free. You can cancel his Ult's CC with your Q3 or Ult. Use your W to block his Q damage. Get on top of him so he can't do E and escape. If his E collides with you, it will prevent him from taking all the E.",
+			"tips": [
+				"Azir relies on his soldiers to deal damage but cannot move them at will. Try to take advantage of the windows during which his soldiers are stationary.",
+				"Azir does massive damage over long periods of time but lacks the powerful burst of other mages. Try to crush him fast, before he can turn the tide of the fight.",
+				"Sand soldiers are like fire: don't stay in the middle."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions":
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		},
+		"brand": {
+			"id": 63,
+			"difficulty": 2,
+			"start_items": [ "Doran's Blade", "Potion"],
+			"strategy": "This matchup is really easy, provided you can dodge his Q and W. Make very short discussions with him and he will never be able to make you a full combo. There are not many people who play this champion outside the support, so you will rarely play against the Brand mid. Don't give him a Q3 or he'll give you a full combo.",
+			"tips": [
+				"Brand must use a skill to initiate his combo. If you dodge Burning or Column of flames, you will interrupt its routine.",
+				"Remember to get away from your allies when you see him incant Pyrolysis. The speed of the projectile is quite slow at the start, which leaves time to react.",
+				"Brand's passive competence allows him to excel against the grouped teams. Don't all stay in one place.",
+				"To all in Ult when brand casts his Q to make you unstoppable during animation"
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		},
+		"camille": {
+			"id": 164,
+			"difficulty": 6,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "This champion is still very strong even after all the nerfs. She will probably take TP/Ignite. Don't stand next to the walls or she will just sneak you in. Stay out of his AA range when his Q2 is active. Use your W in response to her W. As long as you keep your items and gold, you should be able to beat her 1v1. Whoever hits her mythic first will take control of the lane. Your E can also stop its R if you have the right timing. Use your E to dodge his E.",
+			"tips": [
+				"Camille's shield only works against one damage type at a time, so attack her when she's vulnerable to your damage.",
+				"Hextech Ultimatum cast range is very short. So try to Flash to get away before Camille gets close enough."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth",
+					"Armor"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"cassiopeia": {
+			"id": 69,
+			"difficulty": 8,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This matchup depends on the quality of the Cass. Do your best to dodge his Q poke. You can never Q3 on her, otherwise she will ult you. His W prevents you from Q3'ing, E'ing, and returning to your E. Use your E to dodge his Q if needed. She is very sensitive to ganks, so try to freeze the wave on your turn and call the jungle for help. Only go after her if she misses her Q while trying to harass you. Ulting at max range is better than Q3'ing because she can't react unless she flashes.",
+			"tips": [
+				"If you are poisoned, beware of the potential damage Cassiopeia inflicts with Fatal Bite.",
+				"Turn your back to Cassiopeia when she casts Medusa's Gaze, to be slowed rather than stunned."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"chogath": {
+			"id": 31,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "Tank Cho'Gath is much easier than AP Cho'Gath. He is very sensitive to ganks, so try to freeze the wave on your turn and call the jungle for help. Always keep moving when he silences you in order to dodge his Q. Use your W when he Ws you. Also dodge his E poke. If you ever see his ult, you can win the all-in. If he has the ult, don't try to go all-in.",
+			"tips": [
+				"Buying a few HP items reduces the chance that Cho'Gath will kill you quickly.",
+				"Prevent Cho'Gath from reaching its maximum size.",
+				"A cloud of smoke indicates the area Rupture will hit. Stay tuned to prevent Cho'Gath from combining skills."
+			],
+			"build_items": [
+				"Immortal Shieldbow",
+				"Blade of the Ruined King"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"corki": {
+			"id": 42,
+			"difficulty": 1,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"darius": {
+			"id": 122,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth",
+					"Armor"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"diana": {
+			"id": 131,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"mundo": {
+			"id": 36,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"ekko": {
+			"id": 245,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"fiora": {
+			"id": 114,
+			"difficulty": 8,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth",
+					"Armor"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"fizz": {
+			"id": 105,
+			"difficulty": 6,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This matchup is pretty even. Save your E to dodge his E. Early null-magic mantle is good, similar to the Annie matchup so he can never 100 to 0 you. Save your W for when he Qs into you to block a big part of his burst trade. He can animation cancel his Ult with his Q, so be aware of that. Use your E to dodge his shark as well.",
+			"tips": [
+				"Fizz's attacks become deadly for seconds after his empowered attack. Keep him at bay when his trident shines!",
+				"Fizz is elusive when his skills are not on cooldown. Push him to use them quickly, then follow up with crowd control or heavy attacks!"
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"galio": {
+			"id": 3,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"gangplank": {
+			"id": 41,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Overgrowth",
+					"Armor"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"garen": {
+			"id": 86,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth",
+					"Armor"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"gnar": {
+			"id": 150,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth",
+					"Armor"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"graves": {
+			"id": 104,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth",
+					"Armor"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"gwen": {
+			"id": 887,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"heimerdinger": {
+			"id": 74,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"illaoi": {
+			"id": 420,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"irelia": {
+			"id": 39,
+			"difficulty": 10,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "This matchup is an absolute nightmare for Yone. It doesn't matter if you play well, or if Irelia is bad. His champion is just better. Play to survive until Shieldbow. Even then, this matchup is still very difficult. If she ever freezes on you, you can't play the game. You can't walk, like in Darius' match. It will just crush you and kill you. This is my personal permaban for the upper lane. Do your best to dodge her E with your E. You'll never be able to fight her if her passive is stacked; you will always lose the trade/all-in.",
+			"tips": [
+				"Keep an eye on Irelia's Ionian Fervor stacks and attack her when she runs out.",
+				"Minion waves greatly improve Irelia's mobility. Be careful when you face him in the middle of the minions.",
+				"Be careful not to waste your most powerful spells on Challenge Dance."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth",
+					"Armor"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"jax": {
+			"id": 24,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"jayce": {
+			"id": 126,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"karma": {
+			"id": 43,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"karthus": {
+			"id": 30,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"kassadin": {
+			"id": 38,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This matchup looks easy enough, but a good Kassadin can make this path exhausting. It does a lot more damage than most people expect, especially when it takes electrocute. Your spam Q will help him use his E more, so be aware of that. Try your best to space yourself properly so he can't AA, W, Q you. At level 6 he's much stronger. Try to turn it on when it uses its Ult.",
+			"tips": [
+				"Kassadin primarily deals magic damage. In case of difficulty, buy items that improve magic resistance, such as Mercury's Sandals or Banshee's Veil.",
+				"When Kassadin casts consecutive Fissures, he uses more and more mana. Think about it when you chase him.",
+				"It only takes 6 spell casts for Kassadin to be able to use Pulse. If he improves this skill, beware when using spells near him."
+			],
+			"build_items": [
+				"Blade of the Ruined King"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"katarina": {
+			"id": 55,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "This lane is quite boring as it just wanders around. Don't stand on or near her daggers, or she'll seek to trade with you. You vastly surpass her in terms of support. Just ping their roams as they rely on that for food. She'll probably dodge your Q3 and Ult with her E, so try to go all-in when she doesn't have it. When looking for an exchange, go on it with Q1 or Q2; she will easily dodge your Q3.",
+			"tips": [
+				"Katarina's skills deal magic damage. Even if she buys items that increase her attack damage, increase your magic resistance to counter her.",
+				"Try to save a hindering effect for when Katarina uses Death Lotus."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Conditioning",
+					"Overgrowth"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"kayle": {
+			"id": 10,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"kennen": {
+			"id": 85,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"kled": {
+			"id": 240,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"leblanc": {
+			"id": 7,
+			"difficulty": 9,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This matchup is incredibly difficult. Not only does she piss you off in 1v1, but she also has a really good gank setup, just like Galio. Use your W when she throws Q at you. Try to freeze the wave on your tower. Play this ladder matchup. If you're tied against her, you've already won. Never do Q3s to her because she will double chain you and you will die.",
+			"tips": [
+				"LeBlanc's ultimate can create copies of LeBlanc when casting spells or, more rarely, in a distant location.",
+				"The copy of LeBlanc created from a distance always runs to the nearest champion, casts a harmless spell, then disappears.",
+				"Attacking LeBlanc first avoids most of her tricks, especially if she just used her Distortion.",
+				"Stunning or silencing LeBlanc prevents her from activating Warp Feedback."
+			],
+			"build_items": [
+				"Doran's Blade (Early)",
+				"Immortal Shieldbow"
+				
+			],
+			"rune_suggestions": 
+				[
+					"Overgrowth",
+					"Conditioning"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"lissandra": {
+			"id": 127,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"lucian": {
+			"id": 236,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"lulu": {
+			"id": 117,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"lux": {
+			"id": 99,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"malphite": {
+			"id": 54,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"malzahar": {
+			"id": 90,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"maokai": {
+			"id": 57,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"mordekaiser": {
+			"id": 82,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"nasus": {
+			"id": 75,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"neeko": {
+			"id": 518,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"oriana": {
+			"id": 61,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"ornn": {
+			"id": 516,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"pantheon": {
+			"id": 80,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"poppy": {
+			"id": 78,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"qiyana": {
+			"id": 246,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"quinn": {
+			"id": 133,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"renekton": {
+			"id": 58,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"riven": {
+			"id": 92,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"rumble": {
+			"id": 68,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "This matchup is very hard. He can miss everything and still kill you because of how his heat works. Do your best to dodge his Es because they give him more magic pen. Don't fight him when he uses Q or you will always lose the trade. Ping him mia because Rumbles love to roam. He just does way too much damage for Yone to handle. Do NOT fight him when he's overheated; his autos will outdamage yours.",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"ryze": {
+			"id": 13,
+			"difficulty": 5,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "He is very boring in the early game. It just pushes you inside. This matchup is much easier with Lethal Tempo, but it still does a decent amount of damage. Don't let him harass you for free. Don't stand near the wave when it's doing its EQ or you'll get hit too. You can kill him at level 6 if he missteps or stays too long. If he tries to move away by Ult, Q3 or ult and his ult will be canceled.",
+			"tips": [
+				"Ryze is particularly dangerous against opponents marked by Flux.",
+				"Take advantage of the Warp Portal's activation time to decide how to deal with what may come out of it.",
+				"Inflicting crowd control on Ryze while Dimensional Portal is active will cancel the portal."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"seraphine": {
+			"id": 147,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"sett": {
+			"id": 875,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"shen": {
+			"id": 98,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"singed": {
+			"id": 27,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"sion": {
+			"id": 14,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"sylas": {
+			"id": 517,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"syndra": {
+			"id": 134,
+			"difficulty": 8,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "This matchup is one of the most annoying for mages. She'll Q you every time you go for cs. When you E, she E you back. To counter this, try to be more erratic in your movements to dodge it. You can only go all-in or trade with her if she misses her E. An early coat is good so she can't put you 100 to 0 when she hits level 6. Play scale and put in place ganks with your jungler because she is very immobile.",
+			"tips": [
+				"Quickly grab boots when playing against Syndra, they will help you avoid many of her spells.",
+				"Attack Syndra after she uses Scatter the Weak. Her recovery time is long and she will be vulnerable.",
+				"At max rank, Syndra's spells gain bonus effects and change appearance."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"tahm": {
+			"id": 223,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"talon": {
+			"id": 91,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"teemo": {
+			"id": 17,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"tristana": {
+			"id": 18,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"trundle": {
+			"id": 48,
+			"difficulty": 6,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "Don't try to fight him level 1. His Q steals your AD, and if he takes Lethal Tempo, you will not win it. I feel like you can just perma jump on him with E until 6. After he has his Ult, do NOT try to fight him bc he will steal your armor/mr so just do your best to kite out of it + his pillar. You can beat him in the side lane later on if you are fed enough. If they have a lot of healing in their comp, executioner's / mortal reminder is extremely valuable.",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					""
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"tryndamere": {
+			"id": 23,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"twisted_fate": {
+			"id": 4,
+			"difficulty": 3,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				"Trade or all in him when he uses his W",
+				"Do your best to dodge his Q's",
+				"Use E to dodge his E",
+				"Twisted Fate controls the early game, farm and scale",
+				"Be very wary of his roaming and ping MIA"
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"urgot": {
+			"id": 6,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"vayne": {
+			"id": 67,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"veigar": {
+			"id": 45,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"velkoz": {
+			"id": 161,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"vex": {
+			"id": 711,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Teleport"
+				]
+
+		
+		},
+		"viktor": {
+			"id": 112,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "It's more of a farming route. Don't take too many hits from him and you'll be fine. He'll be looking to push you when he gets his E raise. Use your W to shield some of his Q poke. If you ever do Q3 or E on him, he'll only do W, so E out. At level 6 it's a bit easier, but he does a lot of damage so try to trade or go all-in when he uses Q or E.",
+			"tips": [
+				"Be careful if you let Viktor approach you. The closer he is to his opponent, the more his control over the battlefield increases.",
+				"To know the number of improvements obtained by Viktor, look at the color of the light on his staff (purple, yellow, blue, red)."
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Overgrowth",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"vladimir": {
+			"id": 8,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"volibear": {
+			"id": 106,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"warwick": {
+			"id": 19,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"wukong": {
+			"id": 62,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"xerath": {
+			"id": 101,
+			"difficulty": 4,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "Just dodge his poke and this path is incredibly easy. If you block the wave on your turn, he is forced to walk up. He is very vulnerable to ganks and super immobile. Use your E to dodge his Q, W, and ults. If you ever do Q3 or E to him, he will do E to you. At level 6, you can just ultramark him and he can't do much.",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"yasuo": {
+			"id": 157,
+			"difficulty": 6,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "He's much stronger up to level 3. Don't take too much damage at first and you'll be fine. He will seek to block your Q3. You can always eliminate his passive. Try not to fight in the wave of minions because it will E over and over again. This matchup is purely a skill matchup after level 3.",
+			"tips": [
+				"Steel Storm is not very wide. Move sideways to try to dodge it.",
+				"When Yasuo places two Steel Storms in a row, the next one will trigger a tornado. Watch for the sound that announces this effect and get ready to dodge.",
+				"Yasuo is less dangerous after firing a tornado. Attack then.",
+				"Shield of Determination lasts 2 sec. Inflicting damage on Yasuo triggers the shield: attack when it disappears."
+			],
+			"build_items": [
+				"Immortal Shieldbow",
+				"Infinity Edge",
+				"Death's Dance"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		},
+		"yone": {
+			"id": 777,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"zed": {
+			"id": 238,
+			"difficulty": 10,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This matchup is a nightmare if the Zed is good. You have to save your E for when he uses W or you'll have trouble dodging anything. You absolutely have to take the escape against Zed or you will die repeatedly. At level 6, you have to play incredibly safe since you have no evasion ability. Grab early cloth armor and steelcaps if their jungler is also AD. You can't Q3 or ultramarine it unless its W and R are on the cooldown because it will dodge them and kill you. Take the exhaust.",
+			"tips": [
+				"Zed benefits from attack damage items he buys; the armor is therefore very effective against him.",
+				"After using Living Shadow, Zed is vulnerable because his damage, slows, and mobility rely on this skill.",
+				"Shadow Slash can only slow you down if Zed's shadow hits you with this skill.",
+				"You can use E to dodge his W > E > Q poke",
+				"Early cloth armor is a must"
+
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Overgrowth"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Exhaust"
+				]
+		
+		},
+		"ziggs": {
+			"id": 115,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"zoe": {
+			"id": 142,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		}
+	}
+}
