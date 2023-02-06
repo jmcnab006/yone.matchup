@@ -888,7 +888,8 @@
 			"rune_suggestions": 
 				[
 					"Conditioning",
-					"Overgrowth"
+					"Overgrowth",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
@@ -900,7 +901,7 @@
 		},
 		"kayle": {
 			"id": 10,
-			"difficulty": 4,
+			"difficulty": 1,
 			"start_items": [ "Doran's Shield","Potion"],
 			"strategy": "There's no easier lane for Yone. Just don't fight her level 1 with Lethal Tempo because she is a lot stronger with it. You can perma all-in her whenever you want until level 6. She can't walk up to the wave early or she will get chunked. At level 6, it becomes a bit more difficult because of her range, but just get Q3s and all-in her with your E. If she ults, just E back and wait for your E to come up again and just all-in her again.",
 			"tips": [
@@ -911,7 +912,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Conditioning",
+					"Overgrowth",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
@@ -923,9 +926,9 @@
 		},
 		"kennen": {
 			"id": 85,
-			"difficulty": 4,
+			"difficulty": 8,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is very annoying early. He will look to poke you down when you go for cs, so justdon't take free damage. Play safe and play to scale. Short trades are the most effective in this matchup. Pick up an early mantle, similar to the Annie matchup and he can never 100 to 0 you. If against Kennen mid, I would take exhaust as it hard counters his ult.",
 			"tips": [
 				""
 			],
@@ -934,7 +937,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
@@ -946,9 +951,9 @@
 		},
 		"kled": {
 			"id": 240,
-			"difficulty": 4,
+			"difficulty": 9,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "Do your best to dodge his Qs or you will lose every trade. Do not try to trade with him when his W is active; he does a lot of damage. If you ever Q3 into him, he will just Q you and you'll lose the trade. Go for an all-in on him whenever he's unmounted; he's very immobile and won't be able to dodge your Q3 or your Ult.",
 			"tips": [
 				""
 			],
@@ -957,7 +962,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Bone Plating",
+					"Conditioning",
+					"Armor"
 				],
 			"summoner_spells": 
 				[
@@ -969,9 +976,9 @@
 		},
 		"leblanc": {
 			"id": 7,
-			"difficulty": 9,
+			"difficulty": 10,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "This matchup is incredibly difficult. Not only does she piss you off in 1v1, but she also has a really good gank setup, just like Galio. Use your W when she throws Q at you. Try to freeze the wave on your tower. Play this ladder matchup. If you're tied against her, you've already won. Never do Q3s to her because she will double chain you and you will die.",
+			"strategy": "This matchup is incredibly hard. Not only does she shit on you 1v1, she also has really good gank setup just like Galio. Use your W when she throws Q at you. Try to freeze the wave at your tower. Play this matchup to scale. If you are even against her, you are already winning. Never Q3 into her because she will just double chain you and you'll die.",
 			"tips": [
 				"LeBlanc's ultimate can create copies of LeBlanc when casting spells or, more rarely, in a distant location.",
 				"The copy of LeBlanc created from a distance always runs to the nearest champion, casts a harmless spell, then disappears.",
@@ -986,7 +993,31 @@
 			"rune_suggestions": 
 				[
 					"Overgrowth",
-					"Conditioning"
+					"Conditioning",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+		},
+		"lee": {
+			"id": 127,
+			"difficulty": 5,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "Solo lane Lee Sin isn't really a thing anymore since they nerfed it, but people still play it sometimes. Do your best to dodge his Qs. You HAVE to dodge his Es becaue they do so much damage (high base damage. Be careful once he's level 6 because his Ult is point click damage. You can rush cloth armor if their jungler and/or mid laner are ad as well. Just look to farm and scale. It's hard to kill him because he can just W away or ward hop away.",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Bone Plating",
+					"Conditioning",
+					"Armor"
 				],
 			"summoner_spells": 
 				[
@@ -998,9 +1029,9 @@
 		},
 		"lissandra": {
 			"id": 127,
-			"difficulty": 4,
+			"difficulty": 5,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "This lane is pretty easy, but you can never really kill her. She plays too safe and she'll just E away if you try to fight her. She has incredible gank setup similar to Galio and Leblanc. I would take Cleanse in this matchup if you're not too confident. Opt for short trades with her. Time your E for her Ult.",
 			"tips": [
 				""
 			],
@@ -1009,7 +1040,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
