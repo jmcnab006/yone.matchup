@@ -1003,7 +1003,7 @@
 				]
 		},
 		"lee": {
-			"id": 127,
+			"id": 64,
 			"difficulty": 5,
 			"start_items": [ "Doran's Blade","Potion"],
 			"strategy": "Solo lane Lee Sin isn't really a thing anymore since they nerfed it, but people still play it sometimes. Do your best to dodge his Qs. You HAVE to dodge his Es becaue they do so much damage (high base damage. Be careful once he's level 6 because his Ult is point click damage. You can rush cloth armor if their jungler and/or mid laner are ad as well. Just look to farm and scale. It's hard to kill him because he can just W away or ward hop away.",
@@ -1054,7 +1054,7 @@
 		},
 		"lucian": {
 			"id": 236,
-			"difficulty": 4,
+			"difficulty": 8,
 			"start_items": [ "Doran's Shield","Potion"],
 			"strategy": "",
 			"tips": [
@@ -1065,7 +1065,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Second Wind",
+					"Overgrowth",
+					"Armor"
 				],
 			"summoner_spells": 
 				[
@@ -1077,9 +1079,9 @@
 		},
 		"lulu": {
 			"id": 117,
-			"difficulty": 4,
+			"difficulty": 5,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is easy, but annoying. Once you get vamp scepter you will out sustain her damage. Her W is very annoying regardless of the game state. Always try to E back when she Ws you so you don't take any free damage. Remember she has a lot of shields and her Ult healing. Don't get baited when you try to all-in her.",
 			"tips": [
 				""
 			],
@@ -1088,7 +1090,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
@@ -1102,7 +1106,7 @@
 			"id": 99,
 			"difficulty": 4,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is annoying early, but it's still fairly easy. Always try to dodge her E and her Q or you will get chunked. Never Q3 into her or she will full combo you. Only do it if you know she's already used E and/or Q.",
 			"tips": [
 				""
 			],
@@ -1111,7 +1115,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
