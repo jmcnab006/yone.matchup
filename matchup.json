@@ -4,7 +4,7 @@
 			"id": 266,
 			"difficulty": 5,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "Do not trade with Aatrox when it has its active liabilities. He has a very long recovery time, so as soon as he uses it, do not try to exchange with him. Do your best to dodge its strengths or you will suffer a lot of damage. If you are hit by his W, you can dodge it, sideways and back. Do not fight it in its ult, unless you already have obvious injuries. It will heal your damage.",
+			"strategy": "Don't trade with Aatrox when he has his passive active. It has a very long cooldown, so whenever he uses, look to trade with him. Do your best to dodge his sweet spots or you will take a lot of damage. If you get hit by his W, you can E out of it, to the side and back. Don't fight him in his ult, unless you already have grevious wounds. He will outheal your damage.",
 			"tips": [
 				"Do not trade with Aatrox when it has his passive active. It has a very long cooldown. Trade when its down", 
 				"Do your best to dodge the sweet spots",
@@ -33,9 +33,9 @@
 		},
 		"ahri": {
 			"id": 103,
-			"difficulty": 7,
-			"start_items": ["Doran's Blade", "Potion"],
-			"strategy": "Never give her Q3 if she has charm. You take his full combo in your face and you die. Do your best to dodge his Q poke at the start of the game, especially the return that does real damage. At level 6, it is more difficult to kill her because she is very mobile. Bait its charm and then look for short exchanges or an all-in if you can. Never send her an adult if she has her ult in place, or she will just walk away and live.",
+			"difficulty": 9,
+			"start_items": ["Doran's Shield", "Potion"],
+			"strategy": "Don't ever Q3 into her if she has charm up. You will take her full combo to the face and die. Do your best to dodge her Q poke early game, especially the return which is true damage. At level 6, it's harder to kill her because she's so mobile. Bait out her charm and then look for short trades or an all-in if you can. Never ult into her if she has her ult up, or she will just ult away and live.",
 			"tips": [
 				"Ahri's survival skills are considerably reduced when his ultimate skill, Spiritual assault, is not available.",
 				"Stay behind the minions to prevent Charme from touching you easily. This greatly reduces Ahri's offensive potential."
@@ -54,15 +54,13 @@
 					"Flash",
 					"Ignite"
 				]
-
-				
 		
 		},
 		"akali": {
 			"id": 84,
 			"difficulty": 8,
-			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "Akali is annoying because of her Q spam, shroud, and dashes. Never give her a Q3 when she has an E in the air, or she'll just dodge it; his E will stun you and you will be within range. Do your best to dodge his poke Q in the early game. A big piece of HP is not worth a single cs. Use your E before you have Q3 so you can hit her more easily. Early null-magic mantle is good especially if the lane is even.",
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "Akali is annoying because of her Q spam, shroud, and dashes. Never Q3 into her when she has E up, or she'll just dodge it; her E will chunk you and you'll be in kill range. Do your best to dodge her Q poke early game. A huge chunk of HP is not worth that one cs. Use your E before you have Q3 so you can hit her more easily. Early null-magic mantle is good especially if the lane is even.",
 			"tips": [
 				"When Akali is cloaked by Nebulous Shroud, she can still be hit by area effects. This momentarily reveals his position.",
 				"Akali's Kunais Wave is powerful when used at maximum range and with maximum energy. Attack her when she has low energy left to increase your chances of winning your trades.",
@@ -73,7 +71,7 @@
 			],
 			"rune_suggestions": 
 				[
-					"Bone Plating",
+					"Conditioning",
 					"Overgrowth",
 					"Magic Resist"
 				],
@@ -86,9 +84,9 @@
 		},
 		"akshan": {
 			"id": 166, 
-			"difficulty": 9,
-			"start_items": ["Doran's Blade", "Potion"],
-			"strategy": "Akshan is very oppressive at first. You can't fight him until you have zerks and vampire staff. Play around with the aim of scaling and hitting your item spikes. Do your best to farm without taking too much poke or you will be susceptible to ganks/dives. Don't stay in the wave because he will Q the wave, damaging you and pushing the wave at the same time. The more targets his Q hits, the further the wave will go.",
+			"difficulty": 8,
+			"start_items": ["Doran's Shield", "Potion"],
+			"strategy": "Akshan is very oppressive early. You cannot fight him until you have zerks and vamp scepter. Play with the goal to scale and hit your item spikes. Do your best to farm without taking too much poke or you will be susceptible to ganks/dives. Don't stay in the wave because he will Q the wave, damaging you and pushing the wave at the same time. The more targets his Q hits, the further it will go.",
 			"tips": [
 				"play passive till vampire staff and berserkers, focus on farm"
 			],
@@ -98,7 +96,7 @@
 			"rune_suggestions": 
 				[
 					"Second Wind",
-					"Revitalize",
+					"Overgrowth",
 					"Armor"
 				],
 			"summoner_spells": 
@@ -112,7 +110,7 @@
 			"id": 34,
 			"difficulty": 5,
 			"start_items": ["Doran's Blade", "Potion"],
-			"strategy": "Anivia is boring, but this matchup is balanced. You MUST dodge his Q or you'll take his combo and get chunked. Bait his Q by rolling Es and running sideways. You can also do a forward E when she throws a wall at you. Your E will go behind the wall; use this to escape a gank or to save your life. At level 6, most anivias will just do perma shove, so you can just play scale and farm for your items.",
+			"strategy": "Anivia is annoying, but this matchup is even. You HAVE to dodge her Q or you will take her combo and get chunked. Bait out her Q by E'ing and running to the side. You can also E forward when she walls you. Your E will go behind the wall; use this to escape a gank or with your life. At level 6, most anivias will just perma shove, so you can just play to scale and farm for your items.",
 			"tips": [
 				"Try to gank Anivia on a lane. With multiple people, it's easier to make sure her egg dies.",
 				"If you're a ranged champion, staying far enough away from Anivia makes it easier to dodge Ice Spear.",
@@ -136,9 +134,9 @@
 		},
 		"annie": {
 			"id": 1, 
-			"difficulty": 6,
+			"difficulty": 7,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "Rush null-magic mantle in this matchup and she will never one-shot you with her combo. Use your W when she Qs you to mitigate damage during the trade. She will seek to harass you with her long-range AA. Look to turn her on as soon as she uses her passive stun. She will have no way to recover and will have to flash.",
+			"strategy": "Rush null-magic mantle in this matchup and she will never one-shot you with her combo. Use your W when she Qs you to mitigate some damage during the trade. She will look to harass you with her long range AAs. Look to all-in her as soon as she uses her stun passive. She will have no way to retalitate and will have to blow flash.",
 			"tips": [
 				"Annie's bear, Tibbers, burns enemies around him. Keep your distance when summoned.",
 				"The summoner spell Smite can help bring down Tibbers.",
@@ -165,7 +163,7 @@
 			"id": 136,
 			"difficulty": 2,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "This matchup is pretty easy, just do your best not to let him sting you with his W or AA. Most ASols will go for push and roam, so farm and ping mia so your team doesn't die from roams. You can dodge his Q by correctly using your E and/or your Q3. When he attacks you, you can also use your ult and you won't be knocked back for hitting him with it.",
+			"strategy": "This matchup is pretty easy, just do your best to not let him poke you with his W or AAs. Most ASols will opt to push and roam, so just farm and ping him mia so your team doesn't die to his roams. You can dodge his Q with proper usage of your E and/or your Q3. When he ults you, you can ult as well and you will not be knocked back because you hit him with it.",
 			"tips": [
 				"Try to enter the area bounded by its stars, because then they can no longer hurt you.",
 				"His stars disappear when he is stunned or silenced, giving you the opportunity to attack safely.",
@@ -193,7 +191,7 @@
 			"id": 268,
 			"difficulty": 6,
 			"start_items": [ "Doran's Blade", "Potion"],
-			"strategy": "This matchup is fairly balanced, provided you don't let it harass you for free. You can cancel his Ult's CC with your Q3 or Ult. Use your W to block his Q damage. Get on top of him so he can't do E and escape. If his E collides with you, it will prevent him from taking all the E.",
+			"strategy": "This matchup is Yone favored, provided you don't let him harass you for free. Take D Shield and Second Wind and lane is a lot easier. You can cancel his Ult's CC with your Q3 or your Ult. Use your W to block his Q damage. Get on top of him so he can't E away and escape. If his E collides with you, it will stop him from taking the entire E.",
 			"tips": [
 				"Azir relies on his soldiers to deal damage but cannot move them at will. Try to take advantage of the windows during which his soldiers are stationary.",
 				"Azir does massive damage over long periods of time but lacks the powerful burst of other mages. Try to crush him fast, before he can turn the tide of the fight.",
@@ -219,7 +217,7 @@
 			"id": 63,
 			"difficulty": 2,
 			"start_items": [ "Doran's Blade", "Potion"],
-			"strategy": "This matchup is really easy, provided you can dodge his Q and W. Make very short discussions with him and he will never be able to make you a full combo. There are not many people who play this champion outside the support, so you will rarely play against the Brand mid. Don't give him a Q3 or he'll give you a full combo.",
+			"strategy": "This matchup is really easy, provided you can dodge his Q and W. Take very short trades with him and he will never be able to full combo you. Not very many people play this champ outside of support, so you will rarely ever play against Brand mid. Don't Q3 into him or he will full combo you.",
 			"tips": [
 				"Brand must use a skill to initiate his combo. If you dodge Burning or Column of flames, you will interrupt its routine.",
 				"Remember to get away from your allies when you see him incant Pyrolysis. The speed of the projectile is quite slow at the start, which leaves time to react.",
@@ -244,9 +242,9 @@
 		},
 		"camille": {
 			"id": 164,
-			"difficulty": 6,
+			"difficulty": 5,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "This champion is still very strong even after all the nerfs. She will probably take TP/Ignite. Don't stand next to the walls or she will just sneak you in. Stay out of his AA range when his Q2 is active. Use your W in response to her W. As long as you keep your items and gold, you should be able to beat her 1v1. Whoever hits her mythic first will take control of the lane. Your E can also stop its R if you have the right timing. Use your E to dodge his E.",
+			"strategy": "This champion is still very strong even after all the nerfs. She will probably take TP/Ignite. Do not stand next to walls or she will just all-in you. Stay out of her AA range when her Q2 is active. Use your W in response to her W. As long as you keep up in items/gold, you should be able to 1v1 her. Whoever hits their mythic first will take over the lane. Your E can also stop her R if you time it right. Use your E to dodge her E.",
 			"tips": [
 				"Camille's shield only works against one damage type at a time, so attack her when she's vulnerable to your damage.",
 				"Hextech Ultimatum cast range is very short. So try to Flash to get away before Camille gets close enough."
@@ -272,7 +270,7 @@
 			"id": 69,
 			"difficulty": 8,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "This matchup depends on the quality of the Cass. Do your best to dodge his Q poke. You can never Q3 on her, otherwise she will ult you. His W prevents you from Q3'ing, E'ing, and returning to your E. Use your E to dodge his Q if needed. She is very sensitive to ganks, so try to freeze the wave on your turn and call the jungle for help. Only go after her if she misses her Q while trying to harass you. Ulting at max range is better than Q3'ing because she can't react unless she flashes.",
+			"strategy": "This matchup depends on how good the Cass is. Do your best to dodge her Q poke. You can never Q3 into her or she will just ult you. Her W prevents you from Q3'ing, E'ing, and returning to your E. Use your E to dodge her Q if needed. She is very susceptible to ganks, so try to freeze the wave at your tower and call for jungle help. Only go on her if she misses her Q trying to harass you. Max range ulting is better than Q3'ing because she can't react to it unless she flashes.",
 			"tips": [
 				"If you are poisoned, beware of the potential damage Cassiopeia inflicts with Fatal Bite.",
 				"Turn your back to Cassiopeia when she casts Medusa's Gaze, to be slowed rather than stunned."
@@ -298,7 +296,7 @@
 			"id": 31,
 			"difficulty": 4,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "Tank Cho'Gath is much easier than AP Cho'Gath. He is very sensitive to ganks, so try to freeze the wave on your turn and call the jungle for help. Always keep moving when he silences you in order to dodge his Q. Use your W when he Ws you. Also dodge his E poke. If you ever see his ult, you can win the all-in. If he has the ult, don't try to go all-in.",
+			"strategy": "Tank Cho'Gath is a lot easier than AP Cho'Gath. He is very susceptible to ganks, so try to freeze the wave at your tower and call for jungle help. Always keep moving when he silences you to dodge his Q. Use your W when he Ws you. Dodge his E poke as well. If you ever see him ult, you can win the all-in. If he has ult, do not try to all-in him.",
 			"tips": [
 				"Buying a few HP items reduces the chance that Cho'Gath will kill you quickly.",
 				"Prevent Cho'Gath from reaching its maximum size.",
@@ -326,7 +324,7 @@
 			"id": 42,
 			"difficulty": 1,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is incredibly easy. His early game is pretty much non-existent. Try to bait out his W, so you can all-in him. The only way you ever lose this lane is if you let him freely harass you or do literally nothing. When he has his 'Big One' rocket, do not try to trade or all-in with him. Try to dodge it, then trade",
 			"tips": [
 				""
 			],
@@ -349,9 +347,9 @@
 		},
 		"darius": {
 			"id": 122,
-			"difficulty": 4,
+			"difficulty": 8,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "",
+			"strategy": "iThis matchup is incredibly hard, regardless of how well you play it. A good Darius will freeze the wave at his tower and you're unable to play the game. If you walk up, he will just Ghost, run you down, and kill you on repeat. The only chance you have of living is ulting away immediately. Don't ever let him 5 stack his passive or you're dead or very chunked. Save your E for when he uses Q to dodge the sweet spot. Take short trades against him and do your best to kite. You will never win 1v1 until you have Shieldbow.",
 			"tips": [
 				""
 			],
@@ -374,9 +372,9 @@
 		},
 		"diana": {
 			"id": 131,
-			"difficulty": 4,
+			"difficulty": 5,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is pretty even, provided you can dodge her Q harass. She is better early since she has Hextech Alternator and sorc shoes. As soon as you get shieldbow, she can never one shot you and you just take over the lane easily. Try to always go in when she misses her Q. If she hits Q, just back up.",
 			"tips": [
 				""
 			],
@@ -394,14 +392,12 @@
 					"Flash",
 					"Ignite"
 				]
-
-		
 		},
 		"mundo": {
 			"id": 36,
 			"difficulty": 4,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "",
+			"strategy": "This lane is pretty easy, but it can be annoying. Dodge all of his Qs. His passive negates your Q3 as well as your R, so try to get rid of it before you ult him AND make sure you walk over the capsule that pops off when you do. You don't need to rush executioner's anymore becase you out-damage his sustain. Don't hide behind minions that are about to die; he will E them and you will take a lot of damage.",
 			"tips": [
 				""
 			],
@@ -424,9 +420,9 @@
 		},
 		"ekko": {
 			"id": 245,
-			"difficulty": 4,
+			"difficulty": 3,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "",
+			"strategy": "This lane is pretty easy. He will always E out of your Q3 and just get a massive trade on you. He's very mobile so try to catch him off guard when he's going for a cs. Always pay attention to his ult shadow and his W or you will die. Always be aware of the audio cue.",
 			"tips": [
 				""
 			],
@@ -451,7 +447,7 @@
 			"id": 114,
 			"difficulty": 8,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "",
+			"strategy": "This lane is pretty hard. Never Q3 into her or she will just parry you and you will die. Pay attention to vitals. You can run out of her vision to get a new one if needed. Rush executioner's early game to cut down on her healing. You can bait her parry out by Q3 in a different direction from where she is. Look to fight her when her parry is down; you cannot fight her otherwise.",
 			"tips": [
 				""
 			],
@@ -500,9 +496,9 @@
 		},
 		"galio": {
 			"id": 3,
-			"difficulty": 4,
-			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"difficulty": 3,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This lane is very boring. Galio can never kill you unless he has help. His damage is just too low. The annoying part about this lane is his insane gank setup, so be very careful if you overextend and do your best to play around vision. Ping mia when he decides to roam after pushing you under tower. You can cancel his W with your E if you time it correctly.",
 			"tips": [
 				""
 			],
@@ -525,9 +521,9 @@
 		},
 		"gangplank": {
 			"id": 41,
-			"difficulty": 4,
+			"difficulty": 9,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "A good GP is a nightmare for anyone. His q poke is oppressive, especially after he buys Sheen. Don't let him proc grasp for free, play safe until zerks and vamp scepter and you should be able to take over the lane fairly easily. However, once you get Shieldbow you dumpster him. Be very careful of his barrels, as they do massive damage and slow you for a while. If you go up for CS, time your W with his Q so you avoid some poke damage.",
 			"tips": [
 				""
 			],
@@ -550,9 +546,9 @@
 		},
 		"garen": {
 			"id": 86,
-			"difficulty": 4,
+			"difficulty": 5,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is incredibly annoying because of his sustain and his W. They usually take ignite and try to cheese you. When you engage on him, he'll probably use his W. If that happens, just E back and wait to trade with him. Always try to E back when he goes to Q you or you will lose trades very badly. Farm until Shiedlbow and you'll have an easier time fighting him.",
 			"tips": [
 				""
 			],
@@ -577,7 +573,7 @@
 			"id": 150,
 			"difficulty": 4,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is incredibly annoying because of his sustain and his W. They usually take ignite and try to cheese you. When you engage on him, he'll probably use his W. If that happens, just E back and wait to trade with him. Always try to E back when he goes to Q you or you will lose trades very badly. Farm until Shiedlbow and you'll have an easier time fighting him.",
 			"tips": [
 				""
 			],
@@ -600,9 +596,9 @@
 		},
 		"graves": {
 			"id": 104,
-			"difficulty": 4,
+			"difficulty": 6,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is pretty even. He will just look to push you in 24/7 so just play to scale and for farm. Do your best to not interact with him; he does a lot of damage and has a lot of burst as well as waveclear. Don't line up near a wall or his Q will 100% hit you. Make sure to keep track of his E stacks.",
 			"tips": [
 				""
 			],
@@ -623,11 +619,36 @@
 
 		
 		},
+		"gragas": {
+			"id": 79,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "Pretty even matchup. His poke can be oppressive if you don't dodge it. Pretty sure your Q3 cancels his E if you time it right. Do your best to dodge his Q poke and just farm/scale bc realistically u will never kill him until after zerks + zeal bc your Q CD isn't low enough to get consistent nados. Post 6 you can kill him, but just be careful bc he will ult you into his tower.",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
 		"gwen": {
 			"id": 887,
-			"difficulty": 4,
+			"difficulty": 3,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is pretty easy for Yone. Gwen is also a scaling champ so the lane isn't too difficult. Yone is very mobile, so you can easily dodge her empowered Q and kite out of her Ult safely. Keep in mind your R and Q3 will not hit her if you are outside of her W. Respect her level 1 as she is incredibly strong with the new Lethal Tempo.",
 			"tips": [
 				""
 			],
@@ -652,7 +673,7 @@
 			"id": 74,
 			"difficulty": 4,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "Do not fight him if he has a lot of turrets out; he will chunk most of your HP. Use your E to dodge his E. Be careful using Q3 on him because he can and will just E you and you'll die. He will most likely push you under tower, so just play to farm and scale. You can only go on him when he doesn't have many turrets down and his E is on cooldown.",
 			"tips": [
 				""
 			],
@@ -661,12 +682,14 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
 					"Flash",
-					"Teleport"
+					"Ignite"
 				]
 
 		
@@ -674,8 +697,8 @@
 		"illaoi": {
 			"id": 420,
 			"difficulty": 4,
-			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This matchup can be very annoying if you can't dodge her Es. Do your best to juke with your own E and the movement speed you get from it to dodge her E and her tentacles. After she get's level 6, instantly disengage unless you know you can kill her. She is insanely strong at level 6. She doesn't really do much if you can dodge her Es however. She still does a lot of damage though. You can only win an all-in if her Ult and her E are down.",
 			"tips": [
 				""
 			],
@@ -684,7 +707,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Bone Plating",
+					"Overgrowth",
+					"Armor"
 				],
 			"summoner_spells": 
 				[
@@ -697,8 +722,8 @@
 		"irelia": {
 			"id": 39,
 			"difficulty": 10,
-			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "This matchup is an absolute nightmare for Yone. It doesn't matter if you play well, or if Irelia is bad. His champion is just better. Play to survive until Shieldbow. Even then, this matchup is still very difficult. If she ever freezes on you, you can't play the game. You can't walk, like in Darius' match. It will just crush you and kill you. This is my personal permaban for the upper lane. Do your best to dodge her E with your E. You'll never be able to fight her if her passive is stacked; you will always lose the trade/all-in.",
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": ""This matchup is an absolute nightmare for Yone. It doesn't matter how well you play, or how bad the Irelia is. Her champ is just better. Play to survive until Shieldbow. Even then, this matchup is still very hard. If she ever freezes on you, you can't play the game. You can't walk up, similar to the Darius matchup. She will just run you down and kill you. This is my personal permaban for top lane. Do your best to dodge her E with your E. You can never fight her if her passive is stacked; you will always lose the trade/all-in.",
 			"tips": [
 				"Keep an eye on Irelia's Ionian Fervor stacks and attack her when she runs out.",
 				"Minion waves greatly improve Irelia's mobility. Be careful when you face him in the middle of the minions.",
@@ -723,9 +748,9 @@
 		},
 		"jax": {
 			"id": 24,
-			"difficulty": 4,
-			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"difficulty": 10,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This matchup is incredibly hard. Just play for short trades against him. Save your E for when he Qs onto you and Es so you can avoid the stun. Once you get Shieldbow, the lane becomes a lot easier. You will never win a stat check against him, so do your best to kite him and only fight him when you're in your E. If you ever take an extended trade with him, you will always lose because of his passive, his mixed damage, and his E.",
 			"tips": [
 				""
 			],
@@ -734,7 +759,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Bone Plating",
+					"Overgrowth",
+					"Armor"
 				],
 			"summoner_spells": 
 				[
@@ -746,9 +773,9 @@
 		},
 		"jayce": {
 			"id": 126,
-			"difficulty": 4,
+			"difficulty": 8,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "A good Jayce is a nightmare for anyone. He will look to poke you in and out of bushes level 1, so don't take too much free damage. If you catch him off guard in the bushes however, you can actually 1v1 him level 1 and force his flash. Always be aware of his QE combo. Watch minion HP bars because he will look to surprise you with it. Do your best to farm and scale. His ult cd is 6 seconds, so take advantage of this cooldown when possible. He does a lot of damage so do your best to dodge his abilities. If you ever go for an all-in, do it when he's in cannon form. Hammer form gives him more resistances.",
 			"tips": [
 				""
 			],
@@ -757,7 +784,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Second Wind",
+					"Overgrowth",
+					"Armor"
 				],
 			"summoner_spells": 
 				[
@@ -769,9 +798,9 @@
 		},
 		"karma": {
 			"id": 43,
-			"difficulty": 4,
+			"difficulty": 6,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "This matchup is pretty easy. She will never kill you unless you get hit by everything. Her poke is very annoying early but with Doran's Shield and Second Wind it's not much of an issue. Just play to farm and scale. Don't stay in her Mantra W; she will outheal your damage and root you for a while.",
 			"tips": [
 				""
 			],
@@ -780,7 +809,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Second Wind",
+					"Overgrowth",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
@@ -792,9 +823,9 @@
 		},
 		"karthus": {
 			"id": 30,
-			"difficulty": 4,
+			"difficulty": 1,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "This lane is probably one of the easiest. Rush zerks so you can dodge his Qs easier and the lane is cake. He has no CC for you. Nobody really plays this champ unless it's a one trick, so you won't play against it often.",
 			"tips": [
 				""
 			],
@@ -803,7 +834,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Conditioning",
+					"Overgrowth",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
@@ -817,7 +850,7 @@
 			"id": 38,
 			"difficulty": 4,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": "This matchup looks easy enough, but a good Kassadin can make this path exhausting. It does a lot more damage than most people expect, especially when it takes electrocute. Your spam Q will help him use his E more, so be aware of that. Try your best to space yourself properly so he can't AA, W, Q you. At level 6 he's much stronger. Try to turn it on when it uses its Ult.",
+			"strategy": "This matchup seems pretty easy, but a good Kassadin can make this lane exhausting. He does a lot more damage than most people expect, especially when he takes electrocute. Your Q spam will help him use his E more, so be aware of that. Do your best to space properly so he can't AA, W, Q you. At level 6, he is a lot stronger. Look to all-in him when he uses his Ult.",
 			"tips": [
 				"Kassadin primarily deals magic damage. In case of difficulty, buy items that improve magic resistance, such as Mercury's Sandals or Banshee's Veil.",
 				"When Kassadin casts consecutive Fissures, he uses more and more mana. Think about it when you chase him.",
@@ -843,8 +876,8 @@
 		"katarina": {
 			"id": 55,
 			"difficulty": 4,
-			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "This lane is quite boring as it just wanders around. Don't stand on or near her daggers, or she'll seek to trade with you. You vastly surpass her in terms of support. Just ping their roams as they rely on that for food. She'll probably dodge your Q3 and Ult with her E, so try to go all-in when she doesn't have it. When looking for an exchange, go on it with Q1 or Q2; she will easily dodge your Q3.",
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This lane is pretty boring because she will just roam. Do not stand on or near her daggers, or she will look to trade with you. You heavily out-sustain her. Just ping her roams because they rely on this to get fed. She will probably dodge your Q3 and Ult with her E, so try to all-in her when she doesn't have it. When you look for a trade, go on her with either Q1 or Q2; she will easily dodge your Q3.",
 			"tips": [
 				"Katarina's skills deal magic damage. Even if she buys items that increase her attack damage, increase your magic resistance to counter her.",
 				"Try to save a hindering effect for when Katarina uses Death Lotus."
@@ -869,7 +902,7 @@
 			"id": 10,
 			"difficulty": 4,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "There's no easier lane for Yone. Just don't fight her level 1 with Lethal Tempo because she is a lot stronger with it. You can perma all-in her whenever you want until level 6. She can't walk up to the wave early or she will get chunked. At level 6, it becomes a bit more difficult because of her range, but just get Q3s and all-in her with your E. If she ults, just E back and wait for your E to come up again and just all-in her again.",
 			"tips": [
 				""
 			],
