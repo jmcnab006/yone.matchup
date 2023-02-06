@@ -1619,9 +1619,9 @@
 		},
 		"talon": {
 			"id": 91,
-			"difficulty": 4,
-			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"difficulty": 5,
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This matchup is pretty easy. Just respect his level 2 powerspike. Don't let him land both parts of his W or you will lose a lot of HP. Pick up an early cloth armor if you think you need it. When he Ws, you can E behind him and dodge the 2nd part; he can't proc his passive if you do this. At level 6, it's a bit harder. But the way you play it remains the same.",
 			"tips": [
 				""
 			],
@@ -1642,9 +1642,9 @@
 		},
 		"teemo": {
 			"id": 17,
-			"difficulty": 4,
+			"difficulty": 8,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "Since the buff to his Q, this matchup is a lot harder. Do not fight him early because of his poison. Play to scale; don't worry about trading with him early. He will out-trade you with Q. Once you get Shieldbow, the lane is a lot easier, however. Get Red Trinket around level 6 so you don't hit his shrooms.",
 			"tips": [
 				""
 			],
@@ -1653,7 +1653,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
@@ -1665,9 +1667,9 @@
 		},
 		"tristana": {
 			"id": 18,
-			"difficulty": 4,
+			"difficulty": 10,
 			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"strategy": "This lane is impossible early. If you walk up, she just E Ws you and you die or blow flash. Play super safe early and give up cs, but try to stay in xp range. If she Ws onto you, try to E into her to dodge the damage and the slow, stack your Q3 on the wave, E back, and Q3 to safety. Exhaust is a must in matchup. The lane is a lot easier the more you scale, so just do your best to farm.",
 			"tips": [
 				""
 			],
@@ -1676,7 +1678,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Bone Plating",
+					"Overgrowth",
+					"Armor"
 				],
 			"summoner_spells": 
 				[
@@ -1699,7 +1703,9 @@
 			],
 			"rune_suggestions": 
 				[
-					""
+					"Bone Plating",
+					"Overgrowth",
+					"Armor"
 				],
 			"summoner_spells": 
 				[
@@ -1712,8 +1718,8 @@
 		"tryndamere": {
 			"id": 23,
 			"difficulty": 4,
-			"start_items": [ "Doran's Shield","Potion"],
-			"strategy": "",
+			"start_items": [ "Doran's Blade","Potion"],
+			"strategy": "This matchup is annoying but it's Yone favored. He out sustains you. He is a lot stronger than you early with Lethal Tempo, so respect that. When he Es onto you, E into the wave, stack Q3, return to your E, and Q3 out. Do your best to kite him. You can take ignite in this matchup to win the level 1, but if you die, your lane is over.",
 			"tips": [
 				""
 			],
@@ -1722,7 +1728,9 @@
 			],
 			"rune_suggestions": 
 				[
-					"Second Wind"
+					"Bone Plating",
+					"Overgrowth",
+					"Armor"
 				],
 			"summoner_spells": 
 				[
