@@ -4,6 +4,7 @@ import json
 import urllib.request
 import re
 import argparse
+import sys
 
 parser = argparse.ArgumentParser()
 parser.add_argument('name', nargs='?', help="name of the champion")
@@ -23,7 +24,9 @@ class bcolors:
 
 if args.name:
     champion = args.name.lower()
-
+else:
+    parser.print_help()
+    sys.exit(2)
 
 
 def downloadJSON(url):
@@ -121,16 +124,22 @@ def printMatchup(data):
     
 
 
-
 f = open("./matchup.json")
-#champion = 'aatrox'
 json_matchup = json.load(f)
 
-matchup = json_matchup['matchups'][champion]
-cid = matchup['id']
-#print( matchup)
+# do a partial match else print a no champ found matching string
 
-# read local matchup file
+for key in json_matchup['matchups'].keys():
+    if key.startswith(champion):
+        champion = key
+
+if champion in json_matchup['matchups'].keys():
+    matchup = json_matchup['matchups'][champion]
+else:
+    print("No champion found in source '" + champion +"'")
+    sys.exit(2)
+
+cid = matchup['id']
 
 # combine champion data based on id from communitydragon.org
 

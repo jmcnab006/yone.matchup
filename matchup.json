@@ -723,7 +723,7 @@
 			"id": 39,
 			"difficulty": 10,
 			"start_items": [ "Doran's Blade","Potion"],
-			"strategy": ""This matchup is an absolute nightmare for Yone. It doesn't matter how well you play, or how bad the Irelia is. Her champ is just better. Play to survive until Shieldbow. Even then, this matchup is still very hard. If she ever freezes on you, you can't play the game. You can't walk up, similar to the Darius matchup. She will just run you down and kill you. This is my personal permaban for top lane. Do your best to dodge her E with your E. You can never fight her if her passive is stacked; you will always lose the trade/all-in.",
+			"strategy": "This matchup is an absolute nightmare for Yone. It doesn't matter how well you play, or how bad the Irelia is. Her champ is just better. Play to survive until Shieldbow. Even then, this matchup is still very hard. If she ever freezes on you, you can't play the game. You can't walk up, similar to the Darius matchup. She will just run you down and kill you. This is my personal permaban for top lane. Do your best to dodge her E with your E. You can never fight her if her passive is stacked; you will always lose the trade/all-in.",
 			"tips": [
 				"Keep an eye on Irelia's Ionian Fervor stacks and attack her when she runs out.",
 				"Minion waves greatly improve Irelia's mobility. Be careful when you face him in the middle of the minions.",
@@ -1210,6 +1210,31 @@
 			"rune_suggestions": 
 				[
 					"Second Wind"
+				],
+			"summoner_spells": 
+				[
+					"Flash",
+					"Ignite"
+				]
+
+		
+		},
+		"morgana": {
+			"id": 25,
+			"difficulty": 4,
+			"start_items": [ "Doran's Shield","Potion"],
+			"strategy": "",
+			"tips": [
+				""
+			],
+			"build_items": [
+				"Immortal Shieldbow"
+			],
+			"rune_suggestions": 
+				[
+					"Second Wind",
+					"Unflinching",
+					"Magic Resist"
 				],
 			"summoner_spells": 
 				[
