@@ -130,7 +130,7 @@ json_matchup = json.load(f)
 # do a partial match else print a no champ found matching string
 
 for key in json_matchup['matchups'].keys():
-    if key.startswith(champion):
+    if key.startswith(champion.lower()):
         champion = key
 
 if champion in json_matchup['matchups'].keys():
