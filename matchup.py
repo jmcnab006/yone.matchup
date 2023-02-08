@@ -123,10 +123,11 @@ def printMatchup(data):
 
     
     
+#f = open("./matchup.json")
+#json_matchup = json.load(f)
 
-
-f = open("./matchup.json")
-json_matchup = json.load(f)
+matchup_url = 'https://raw.githubusercontent.com/jmcnab006/yone.matchup/main/matchup.json'
+json_matchup = downloadJSON(matchup_url)
 
 # do a partial match else print a no champ found matching string
 
