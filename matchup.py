@@ -60,8 +60,9 @@ def printMatchup(data):
     print("")
    
    # ''.join((f" - {i}\n" for i in user_input_array)
-    print('{0:<15}\n{1:<35}'.format("Tips:", ''.join((f"\t- {i}\n" for i in data['tips']))))
-    print("")
+    if data['tips']:
+        print('{0:<15}\n{1:<35}'.format("Tips:", ''.join((f"\t- {i}\n" for i in data['tips']))))
+        print("")
 
     print('{0:<15}\n{1:<35}'.format("Abilities:", ""))
 
