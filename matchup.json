@@ -1734,12 +1734,12 @@
     },
     "twisted_fate": {
       "id": 4,
-      "difficulty": 3,
+      "difficulty": 6,
       "start_items": [
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is Twisted Fate favored to a degree. Trade or all-in him when he uses his W. Do your best to dodge his Qs. He will just look to push and roam, so ping him mia when he does. You can cleanse his Gold Card with proper timing on your E.",
       "tips": [
         "Trade or all in him when he uses his W",
         "Do your best to dodge his Q's",
@@ -1762,18 +1762,20 @@
     },
     "urgot": {
       "id": 6,
-      "difficulty": 4,
+      "difficulty": 5,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "Use your E to dodge his E. If you ever get hit by his E, you either die or have to blow flash. He completely controls the lane early game, so just do your best to farm and scale. The lane is super easy after Shieldbow as long as you can dodge his E.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Conditioning",
+        "Overgrowth",
+        "Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1782,18 +1784,20 @@
     },
     "vayne": {
       "id": 67,
-      "difficulty": 4,
+      "difficulty": 8,
       "start_items": [
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This lane is similar to Akshan or Lucian. You can't walk up for cs or you'll just get chunked. Do your best to stay in xp range while giving up cs. You can't really trade with her until Shieldbow, but even then her mobility is obnoxious. Don't ever let her proc her W on you. She is very squishy, so once you get on her, you should be able to kill her. If you E or Q3 her, she will just E you away. Don't ever go near a wall or she will E you into the wall and you will probably die.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Second Wind",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1802,18 +1806,20 @@
     },
     "veigar": {
       "id": 45,
-      "difficulty": 4,
+      "difficulty": 2,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is incredibly easy. You get to free farm and scale. Do your best to dodge his Q and W. The only real threat he has is his cage, especially if and when you get ganked. Your E will stop the stun, but you will be stunned when you return back. If you're in the cage, you can ult out of it since you're unstoppable. Try to deny him his stacks, but don't overplay the trade.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Second Wind",
+	"Unflinching",
+        "Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1822,18 +1828,20 @@
     },
     "velkoz": {
       "id": 161,
-      "difficulty": 4,
+      "difficulty": 2,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "Relatively easy matchup as long as you can dodge his kit. Stay out of the wave when he Ws. You can dodge his Q and E with your E. When he uses his abilities on the wave, then you can look for a trade or an all-in. He should be pretty easy to kill after level 6 since he's immobile.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Conditioning",
+	"Overgrowth",
+        "Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1842,19 +1850,20 @@
     },
     "vex": {
       "id": 711,
-      "difficulty": 4,
+      "difficulty": 10,
       "start_items": [
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is a nightmare early. Her kit just counters yours. Her passive will fear you out of your Q3 and your E. Go on her when she uses her spells to wave clear and when her passive is on cooldown. You can't fight her when her passive is active. Early null magic mantle similar to Annie or Fizz will prevent her from oneshotting you with her full combo at level 6.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
         "Second Wind",
-        "Unflinching"
+	"Unflinching",
+        "Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1863,12 +1872,12 @@
     },
     "viktor": {
       "id": 112,
-      "difficulty": 4,
+      "difficulty": 5,
       "start_items": [
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "It's more of a farming route. Don't take too many hits from him and you'll be fine. He'll be looking to push you when he gets his E raise. Use your W to shield some of his Q poke. If you ever do Q3 or E on him, he'll only do W, so E out. At level 6 it's a bit easier, but he does a lot of damage so try to trade or go all-in when he uses Q or E.",
+      "strategy": "Pretty much a farm lane. Just don't take too much poke from him and you're fine. He will look to push you in when he gets his E augment. Use your W to shield some of his Q poke. If you ever Q3 or E onto him, he will just W, so E out. At level 6, it's a bit easier, but he does a lot of damage so try to trade or all-in when he uses Q or E.",
       "tips": [
         "Be careful if you let Viktor approach you. The closer he is to his opponent, the more his control over the battlefield increases.",
         "To know the number of improvements obtained by Viktor, look at the color of the light on his staff (purple, yellow, blue, red)."
@@ -1893,13 +1902,15 @@
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "A good Vlad can make this lane hell, especially if he goes electrocute. However, Lethal Tempo makes this matchup a lot easier. You can perma engage on him, but do not walk up or try to trade with him when he has his empowered Q. You can put extra points in your E since his W cooldown is so long. Executioner's isn't really needed since you'll most likely take ignite. Early null mantle if you're behind is fine, too.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Second Wind",
+        "Overgrowth",
+        "Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1908,18 +1919,20 @@
     },
     "volibear": {
       "id": 106,
-      "difficulty": 4,
+      "difficulty": 10,
       "start_items": [
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "Very tough lane. Take short trades against him and kite him out. If he Ws you, you have to back off or you will take a lot of damage and he will get healed. W him when he goes to Q you. Use your E to kite him. Be careful at level 6 because he can dive you.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1928,9 +1941,9 @@
     },
     "warwick": {
       "id": 19,
-      "difficulty": 4,
+      "difficulty": 5,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
       "strategy": "",
@@ -1939,7 +1952,9 @@
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1948,18 +1963,20 @@
     },
     "wukong": {
       "id": 62,
-      "difficulty": 4,
+      "difficulty": 10,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is near impossible because he is just bruiser Malphite. He will auto you and get armor because of his passive. W when he Es onto you to block some of the damage. Early ninja tabi is really good into Wukong because all of his damage is basic attacks. If he ults you, try to kite out of it with E and Q. Just try to freeze the wave near your tower if you can.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1968,18 +1985,20 @@
     },
     "xerath": {
       "id": 101,
-      "difficulty": 4,
+      "difficulty": 2,
       "start_items": [
-        "Doran's Blade",
+        "Doran's Shield",
         "Potion"
       ],
-      "strategy": "Just dodge his poke and this path is incredibly easy. If you block the wave on your turn, he is forced to walk up. He is very vulnerable to ganks and super immobile. Use your E to dodge his Q, W, and ults. If you ever do Q3 or E to him, he will do E to you. At level 6, you can just ultramark him and he can't do much.",
+      "strategy": "Just dodge his poke and this lane is incredibly easy. If you freeze the wave at your tower, he is forced to walk up. He is very vulnerable to ganks and super immobile. Use your E to dodge his Q, W, and ults. If you ever Q3 or E at him, he will just E you. At level 6, you can just ult him and he can't do much.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Conditioning",
+	"Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
