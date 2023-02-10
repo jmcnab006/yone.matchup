@@ -980,8 +980,10 @@
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
-      "tips": [],
+      "strategy": "Lucian is very oppressive early. You cannot fight him until you have zerks and vamp scepter. Play with the goal to scale and hit your item spikes. Do your best to farm without taking too much poke or you will be susceptible to ganks/dives.",
+      "tips": [
+        "play passive till vampire staff and berserkers, focus on farm"
+      ],
       "build_items": [
         "Immortal Shieldbow"
       ],
@@ -994,6 +996,7 @@
         "Flash",
         "Teleport"
       ]
+
     },
     "lulu": {
       "id": 117,
@@ -1208,7 +1211,9 @@
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Second Wind",
+	"Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1219,16 +1224,18 @@
       "id": 516,
       "difficulty": 4,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "One of the easier tank matchups. You get to scale for free because he does no damage. Just do you best to dodge his Qs and don't stay near his Q or walls because of his E. Don't let him W auto you and this lane is free. You can E to dodge his ult if you time it correctly. Save your E for when he Ws you; you will go behind him and he won't get the brittle on you.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Conditioning",
+	"Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1237,18 +1244,20 @@
     },
     "pantheon": {
       "id": 80,
-      "difficulty": 4,
+      "difficulty": 10,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is impossible early game unless he misplays. His kit just counters yours. You have no way to trade with him because of his E. He can just full combo you on repeat and you have no way to react or outplay it. You have to play super safe in this lane or you will die over and over. Do not walk up when he has his passive fully stacked. You really only have a chance after you get Shieldbow, but even then, his champ is just better early game. Play with the goal to scale. Use your W when he Qs or Ws you to dodge some of the damage. You can E his W if you time it correctly.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1257,18 +1266,20 @@
     },
     "poppy": {
       "id": 78,
-      "difficulty": 4,
+      "difficulty": 8,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is very hard if she's good. She has really high base damages and her W counters your entire kit. If you Q3 or E into her, you'll be grounded for a while and she can just out trade you. Try to step on her passive when she uses it to farm. Do NOT go near walls for any reason or you will die/get chunked. If she uses her passive on you, just W the damage. At Shieldbow, this lane is a bit easier, but Poppy is still Poppy.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Conditioning",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1279,16 +1290,18 @@
       "id": 246,
       "difficulty": 4,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is annoying because of her stealth and mobility. Early cloth armor is good here so she can't 100 to 0 you. Do your best to dodge her Qs. You can dodge her ult with your E or ult. She can really punish your positioning; don't stand near walls or you'll die or get really chunked. Ping her when she's mia because she loves to roam. Be careful in river because her ult will also stun you there.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1297,18 +1310,20 @@
     },
     "quinn": {
       "id": 133,
-      "difficulty": 4,
+      "difficulty": 7,
       "start_items": [
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is only annoying early because of her range. You can't E into her or she will just E you in return. Instead, you should E into Q3. Don't let her poke you for free and give up cs when necessary, but do your best to stay in xp range. You outscale her at Shieldbow, so just do your best to farm for it.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Second Wind",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1317,18 +1332,42 @@
     },
     "renekton": {
       "id": 58,
-      "difficulty": 4,
+      "difficulty": 10,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is impossible to win 1v1 just because his kit counters yours. Early tabis is a must. The only window you have to beat him early is at level 1 and level 2; he is incredibly weak at this point. After that, you can't trade with him unless he misplays. Be extra careful if he goes Prowler's because he will 100 to 0 you even through tabis. At level 6, you still can't fight him, so just do your best to not die on repeat.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Armor"
+      ],
+      "summoner_spells": [
+        "Flash",
+        "Teleport"
+      ]
+    },
+    "rengar": {
+      "id": 107,
+      "difficulty": 10,
+      "start_items": [
+        "Doran's Blade",
+        "Potion"
+      ],
+      "strategy": "This matchup is just as unplayable as the Irelia matchup, but he is susceptible to ganks. That's his only weakness. Rush early cloth armor or you will get one shot over and over. You will never have prio early, so give up cs and let the wave push into you. Call your jungler to help you push the wave to his tower or you will never break his freeze. Do your best to survive and not die 100 times during laning phase and group with your team later on. Giving up 50cs and dying less is a lot better than contesting every cs but dying 10 times.",
+      "tips": [],
+      "build_items": [
+        "Immortal Shieldbow"
+      ],
+      "rune_suggestions": [
+        "Bone Plating",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1337,18 +1376,20 @@
     },
     "riven": {
       "id": 92,
-      "difficulty": 4,
+      "difficulty": 10,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is a nightmare and it's totally in Riven's control. Her champ is just better. She can just perma engage on you, perma cc you, and 100 to 0 you with Conq. Do your best to farm and scale. At level 6, if you mis-step or use your E incorrectly, you just die. She just permanently stat checks you.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1357,7 +1398,7 @@
     },
     "rumble": {
       "id": 68,
-      "difficulty": 4,
+      "difficulty": 5,
       "start_items": [
         "Doran's Shield",
         "Potion"
@@ -1384,7 +1425,7 @@
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "He is very boring in the early game. It just pushes you inside. This matchup is much easier with Lethal Tempo, but it still does a decent amount of damage. Don't let him harass you for free. Don't stand near the wave when it's doing its EQ or you'll get hit too. You can kill him at level 6 if he missteps or stays too long. If he tries to move away by Ult, Q3 or ult and his ult will be canceled.",
+      "strategy": "He is very annoying early game. He just hard pushes you in. This matchup is a lot easier with Lethal Tempo, but he still does a decent amount of damage. Don't let him harass you for free. Don't stand near the wave when he EQs or you will get hit too. You can kill him at level 6 if he mis-steps or overstays. If he tries to Ult away, Q3 or ult him and his ult will be cancelled.",
       "tips": [
         "Ryze is particularly dangerous against opponents marked by Flux.",
         "Take advantage of the Warp Portal's activation time to decide how to deal with what may come out of it.",
@@ -1405,18 +1446,20 @@
     },
     "seraphine": {
       "id": 147,
-      "difficulty": 4,
+      "difficulty": 1,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": ""This matchup is free. You get to scale, she has no kill pressure unless you try to get hit by everything. You roll her at Shieldbow so just farm until then. She plays super far back, so just focus on cs'ing instead of trying to kill her. She can be annoying because of her sustain, shields, and her movement speed.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Conditioning",
+        "Overgrowth",
+        "Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1425,18 +1468,21 @@
     },
     "sett": {
       "id": 875,
-      "difficulty": 4,
+      "difficulty": 9,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is pretty hard. Don't walk up near your minions or he will E and stun you and out-trade you. He out sustains you as well because of his passive. Save your E to dodge his W. He just stat checks you all game, so you'll probably never win 1v1 unless you outplay him. Lane is a bit easier after Shieldbow, but Sett is Sett.",
       "tips": [],
       "build_items": [
-        "Immortal Shieldbow"
+        "Immortal Shieldbow",
+        "Blade of the Ruined King"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1445,18 +1491,21 @@
     },
     "shen": {
       "id": 98,
-      "difficulty": 4,
+      "difficulty": 8,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is hard. Try to dodge his E with yours. Don't fight him in his W. Just play to scale. This lane is a lot easier after Shieldbow. Ping him when he's 6 and try to keep track of his ult cd. Don't walk between him and his sword, because if it goes through you, he will slow you and do more damage.",
       "tips": [],
       "build_items": [
-        "Immortal Shieldbow"
+        "Immortal Shieldbow",
+        "Blade of the Ruined King"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1465,18 +1514,21 @@
     },
     "singed": {
       "id": 27,
-      "difficulty": 4,
+      "difficulty": 2,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "Rule #1 of League of Legends: Don't chase Singed. You can kill him level 1 because of Lethal Tempo. His W counters your Q3 and your E, so just try not to fight him when he uses it. Whenever he ults, just disengage; he gets so many free stats and it's not worth your time or damage to fight him. Lane is very easy after Shieldbow.",
       "tips": [],
       "build_items": [
-        "Immortal Shieldbow"
+        "Immortal Shieldbow",
+        "Blade of the Ruined King"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Conditioning",
+	"Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1485,18 +1537,20 @@
     },
     "sion": {
       "id": 14,
-      "difficulty": 4,
+      "difficulty": 2,
       "start_items": [
-        "Doran's Shield",
+        "Doran's Blade",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": ""This matchup is incredibly easy. He has such long cooldowns early so just abuse that. Later on in the lane, it's more annoying because of how tanky he gets, but his abilities are so telegraphed; he should never kill you. Respect bushes and don't let him fully charge Q on you. You can break his W before it charges to block its damage. You can perma all-in with E; the true damage from the mark will help with trades.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Conditioning",
+	"Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -1510,13 +1564,15 @@
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
-      "tips": [],
+      "strategy": "This matchup is annoying because of his sustain and burst. You can't Q3 into him or he will just E you. Rush vamp scepter to match his sustain. You have to dodge his Qs, especially the 2nd part. Don't take extended trades with him. Hide in between minions so he can't hit you with the second part of his E. Mortal Reminder is a good 2nd item, especially if the enemy team has more healing.",
+      "tips": ["https://www.youtube.com/watch?v=hUXQvHYECnE"],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+	"Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -1530,7 +1586,7 @@
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "This matchup is one of the most annoying for mages. She'll Q you every time you go for cs. When you E, she E you back. To counter this, try to be more erratic in your movements to dodge it. You can only go all-in or trade with her if she misses her E. An early coat is good so she can't put you 100 to 0 when she hits level 6. Play scale and put in place ganks with your jungler because she is very immobile.",
+      "strategy": "This matchup is one of the more annoying mage matchups. She will Q you whenever you go for cs. When you E, she will just E you in return. To counter this, try to be more erratic with your movement to dodge it. You can only all-in or trade with her if she misses her E. Early mantle is good so she can't 100 to 0 you when she hits level 6. Play to scale and set up ganks with your jungler because she's very immobile.",
       "tips": [
         "Quickly grab boots when playing against Syndra, they will help you avoid many of her spells.",
         "Attack Syndra after she uses Scatter the Weak. Her recovery time is long and she will be vulnerable.",
