@@ -8,6 +8,7 @@ import sys
 
 parser = argparse.ArgumentParser()
 parser.add_argument('name', nargs='?', help="name of the champion")
+parser.add_argument('-l', '--local', action='store_true', help="use local matchup.json file")
 args = parser.parse_args()
 
 class bcolors:
@@ -24,6 +25,7 @@ class bcolors:
 
 if args.name:
     champion = args.name.lower()
+
 else:
     parser.print_help()
     sys.exit(2)
@@ -123,11 +125,15 @@ def printMatchup(data):
 
     
     
-#f = open("./matchup.json")
-#json_matchup = json.load(f)
+f = open("./matchup.json")
+json_matchup = json.load(f)
 
-matchup_url = 'https://raw.githubusercontent.com/jmcnab006/yone.matchup/main/matchup.json'
-json_matchup = downloadJSON(matchup_url)
+if args.local: 
+    f = open("./matchup.json")
+    json_matchup = json.load(f)
+else:
+    matchup_url = 'https://raw.githubusercontent.com/jmcnab006/yone.matchup/main/matchup.json'
+    json_matchup = downloadJSON(matchup_url)
 
 # do a partial match else print a no champ found matching string
 
