@@ -2026,7 +2026,8 @@
       ],
       "rune_suggestions": [
         "Bone Plating",
-        "Overgrowth"
+        "Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -2040,13 +2041,37 @@
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "You really shouldn't have this as a matchup but for ability reference here we are",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Bone Plating",
+        "Overgrowth",
+	"Armor"
+      ],
+      "summoner_spells": [
+        "Flash",
+        "Ignite"
+      ]
+    },
+    "yorick": {
+      "id": 83,
+      "difficulty": 4,
+      "start_items": [
+        "Doran's Blade",
+        "Potion"
+      ],
+      "strategy": "This matchup is Yone favored. Do your best to dodge his Es so his ghouls don't jump on you. When he Ws you, you can E out of it, stack Q3, E back, then Q3 to safety or all-in him if you think you have the damage to kill him. Once he's level 6, it's really hard to fight him with his Maiden up. Yorick is incredibly susceptible to ganks, so just try to get your jungler to come top for you.",
+      "tips": [],
+      "build_items": [
+        "Immortal Shieldbow"
+      ],
+      "rune_suggestions": [
+        "Bone Plating",
+        "Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -2073,7 +2098,8 @@
       ],
       "rune_suggestions": [
         "Bone Plating",
-        "Overgrowth"
+        "Overgrowth",
+	"Armor"
       ],
       "summoner_spells": [
         "Flash",
@@ -2082,18 +2108,20 @@
     },
     "ziggs": {
       "id": 115,
-      "difficulty": 4,
+      "difficulty": 2,
       "start_items": [
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "He can't really play the game against you. Just dodge his Q poke and this lane is a breeze. You can put extra points in your E, similar to the Vlad matchup, since his W is such a long cooldown and it's his only escape ability. He will also just perma shove the wave, so you can just free farm and scale.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Conditioning",
+        "Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",
@@ -2102,18 +2130,20 @@
     },
     "zoe": {
       "id": 142,
-      "difficulty": 4,
+      "difficulty": 5,
       "start_items": [
         "Doran's Shield",
         "Potion"
       ],
-      "strategy": "",
+      "strategy": "This matchup is pretty annoying early, but once you get zerks and vamp scepter she can't really do much against you. Don't let her harass you for free early. If you E when she Es you, it will cancel it.",
       "tips": [],
       "build_items": [
         "Immortal Shieldbow"
       ],
       "rune_suggestions": [
-        "Second Wind"
+        "Second Wind",
+        "Overgrowth",
+	"Magic Resist"
       ],
       "summoner_spells": [
         "Flash",

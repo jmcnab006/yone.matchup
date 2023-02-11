@@ -5,23 +5,42 @@ import urllib.request
 import re
 import argparse
 import sys
+import textwrap
 
 parser = argparse.ArgumentParser()
 parser.add_argument('name', nargs='?', help="name of the champion")
 parser.add_argument('-l', '--local', action='store_true', help="use local matchup.json file")
+parser.add_argument('-D', '--DEBUG', action='store_true', help="use local matchup.json file")
 args = parser.parse_args()
 
-class bcolors:
-    HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
+class color:
+    RED = '\033[91m'
+    GREEN = '\033[92m'
+    YELLOW = '\033[93m'
+    BLUE = '\033[94m'
+    PURPLE = '\033[95m'
+    CYAN = '\033[96m'
     ENDC = '\033[0m'
     BOLD = '\033[1m'
+    GREY = '\033[2m'
+    ITALIC = '\033[3m'
     UNDERLINE = '\033[4m'
 
 
+if (args.DEBUG):
+    #for number in range(100):
+    #    code = "\033[" + str(number) + "m"
+    #    print( code + str(number) + color.ENDC)
+    print (color.RED + "RED" + color.ENDC)
+    print (color.GREEN + "GREEN" + color.ENDC)
+    print (color.YELLOW + "YELLOW" + color.ENDC)
+    print (color.BLUE + "BLUE" + color.ENDC)
+    print (color.PURPLE + "PURPLE" + color.ENDC)
+    print (color.CYAN + "CYAN" + color.ENDC)
+    print (color.BOLD + "BOLD" + color.ENDC)
+    print (color.UNDERLINE + "UNDERLINE" + color.ENDC)
+    print (color.GREY + "GREY" + color.ENDC)
+    print (color.ITALIC + "ITALIC" + color.ENDC)
 
 if args.name:
     champion = args.name.lower()
@@ -48,35 +67,60 @@ def downloadJSON(url):
 def printMatchup(data):
 
     print("")
-    print('{0:<15} {1:<35}'.format("Matchup:", data['name'] + " - '" + data['title'] + "'"))
-    print('{0:<15} {1:<35}'.format("Difficulty:", data['difficulty']))
-    print('{0:<15} {1:<35}'.format("Roles:", ",".join(data['roles'])))
-    print('{0:<15} {1:<35}'.format("Start:", ",".join(data['start_items'])))
-    print('{0:<15} {1:<35}'.format("Runes:", ",".join(data['rune_suggestions'])))
-    print('{0:<15} {1:<35}'.format("Items:", ",".join(data['build_items'])))
-    print('{0:<15} {1:<35}'.format("Summoners:", ",".join(data['summoner_spells'])))
+    print(color.CYAN + 'Matchup:' + color.ENDC)
+    print('  {0:<15} {1:<35}'.format("Matchup:", color.BOLD + color.ITALIC + data['name'] + color.ENDC + " - '" + color.PURPLE + data['title'] + color.ENDC + "'"))
+
+    difficulty = data['difficulty'] 
+    if difficulty in range(1, 3):
+        print('  {0:<15} {1:<35}'.format("Difficulty:", color.GREEN + str(data['difficulty']) + color.ENDC ))
+    elif difficulty in range(4, 5):
+        print('  {0:<15} {1:<35}'.format("Difficulty:", color.BLUE + str(data['difficulty']) + color.ENDC ))
+    elif difficulty in range(6, 7):
+        print('  {0:<15} {1:<35}'.format("Difficulty:", color.YELLOW + str(data['difficulty']) + color.ENDC ))
+    else:
+        print('  {0:<15} {1:<35}'.format("Difficulty:", color.RED + str(data['difficulty']) + color.ENDC ))
+    
+    print('  {0:<15} {1:<35}'.format("Roles:", ",".join(data['roles'])))
+    print('  {0:<15} {1:<35}'.format("Playstyle:", ''.join((f"{k}: {v}  " for k, v in data['playstyleInfo'].items()))))
     print()
-    print('{0:<15} {1:<35}'.format("Playstyle:", ''.join((f"{k}: {v}  " for k, v in data['playstyleInfo'].items()))))
+    print(color.CYAN + 'Recommendations:' + color.ENDC)
+    print('  {0:<15} {1:<35}'.format("Start:", ",".join(data['start_items'])))
+    print('  {0:<15} {1:<35}'.format("Runes:", ",".join(data['rune_suggestions'])))
+    print('  {0:<15} {1:<35}'.format("Items:", ",".join(data['build_items'])))
+    print('  {0:<15} {1:<35}'.format("Summoners:", ",".join(data['summoner_spells'])))
     print()
-    print('{0:<15} {1:<35}'.format("Strategy:", data['strategy']))
-    print("")
+    # truncate our strategy to 20 spaces
+    strategy = textwrap.wrap(data['strategy'],100)
+#    strategy = re.sub(r'^(.*?( .*?){20}) ', r'\1\n  ', strategy)
+#    strategy = re.sub(r'^(.*?( .*?){40}) ', r'\1\n  ', strategy)
+#    strategy = re.sub(r'^(.*?( .*?){60}) ', r'\1\n  ', strategy)
+#    strategy = re.sub(r'^(.*?(.*?){80}) ', r'\1\n  ', strategy)
+
+    #print('  {0:<15} {1:<35}'.format("Strategy:\n", strategy))
+    #print('  {:<15}'.format(color.CYAN + "Strategy:" + color.ENDC))
+    print(color.CYAN + 'Strategy:' + color.ENDC)
+    print("  " + "\n  ".join(strategy))
+    #print('  {:<15}'.format(strategy))
+    print()
    
    # ''.join((f" - {i}\n" for i in user_input_array)
     if data['tips']:
         print('{0:<15}\n{1:<35}'.format("Tips:", ''.join((f"\t- {i}\n" for i in data['tips']))))
         print("")
 
-    print('{0:<15}\n{1:<35}'.format("Abilities:", ""))
+    #print('{0:<15}\n{1:<35}'.format("Abilities:", ""))
+    print(color.CYAN + 'Abilities:' + color.ENDC)
 
     # do our passive
     passive_description = data['passive']['description']
     passive_description = re.sub('<[^<]+?>', ' ', passive_description)
-    passive_description = re.sub(r'^(.*?( .*?){20}) ', r'\1\n  ', passive_description)
-    passive_description = re.sub(r'^(.*?( .*?){30}) ', r'\1\n  ', passive_description)
-    passive_str = bcolors.OKGREEN + bcolors.BOLD + data['passive']['name'] + bcolors.ENDC + " [" + bcolors.OKBLUE + "Passive" + bcolors.ENDC + "]" 
+    pdesc = textwrap.wrap(passive_description, 100)
+    #passive_description = re.sub(r'^(.*?( .*?){20}) ', r'\1\n  ', passive_description)
+    #passive_description = re.sub(r'^(.*?( .*?){30}) ', r'\1\n  ', passive_description)
+    passive_str = color.GREEN + color.BOLD + data['passive']['name'] + color.ENDC + " [" + color.BLUE + "Passive" + color.ENDC + "]" 
 
     print('  {:<15}'.format(passive_str))
-    print('  {:<15}'.format(passive_description))
+    print("  " + "\n  ".join(pdesc))
     print()
 
     # lets do our keybound abilities 
@@ -99,18 +143,19 @@ def printMatchup(data):
             del cooldowns[-1]
 
         range_str = "{0:.0f}".format(ranges[0]) if ranges[0] == ranges[1] and ranges[1] == ranges[2] and ranges[2] == ranges[3] and ranges[3] == ranges[4] else '/'.join((f"{i:.0f}" for i in ability['range']))
-        cooldown_str = bcolors.BOLD + '/'.join((f"{i:.0f}" for i in ability['cooldownCoefficients'])) + bcolors.ENDC
+        cooldown_str = color.BOLD + '/'.join((f"{i:.0f}" for i in ability['cooldownCoefficients'])) + color.ENDC
         
-        head = bcolors.OKGREEN + bcolors.BOLD + ability['name'] + bcolors.ENDC + " [" + bcolors.OKBLUE + k + bcolors.ENDC + "] - Cooldown: (" + cooldown_str + ") " + "Range: " + range_str 
+        head = color.GREEN + color.BOLD + ability['name'] + color.ENDC + " [" + color.BLUE + k + color.ENDC + "] - Cooldown: (" + cooldown_str + ") " + "Range: " + range_str 
 
         description = ability['description']
         description = re.sub('<[^<]+?>', '', description)
-        description = re.sub(r'^(.*?( .*?){20}) ', r'\1\n  ', description)
+        desc = textwrap.wrap(description, 100)
         #print( '/'.join((f"{i:.0f}" for i in ability['range'])))
         #print('  {0:<10} {1:<15} - {2:<35}\n'.format("Q", data['abilities'][0]['name'] + " (" + '/'.join((f"{i:.0f}" for i in data['abilities'][0]['cooldownCoefficients'])) + ") " , data['abilities'][0]['description']))
         #print('  {0:<10} {1:<15} - {2:<35}\n'.format(key_binds[index], ability['name'] + " (" + '/'.join((f"{i:.0f}" for i in ability['cooldownCoefficients'])) + ") " , ability['description']))
         print('  {0:<4}'.format(head))
-        print('  {0:<4}'.format(description))
+        print("  " + "\n  ".join(desc))
+        #print('  {0:<4}'.format(description))
         print()
         #print('  {0:<10} {1:<15} - {2:<35}\n'.format("","", description))
 
