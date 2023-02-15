@@ -89,34 +89,22 @@ def printMatchup(data):
     print('  {0:<15} {1:<35}'.format("Items:", ",".join(data['build_items'])))
     print('  {0:<15} {1:<35}'.format("Summoners:", ",".join(data['summoner_spells'])))
     print()
-    # truncate our strategy to 20 spaces
     strategy = textwrap.wrap(data['strategy'],100)
-#    strategy = re.sub(r'^(.*?( .*?){20}) ', r'\1\n  ', strategy)
-#    strategy = re.sub(r'^(.*?( .*?){40}) ', r'\1\n  ', strategy)
-#    strategy = re.sub(r'^(.*?( .*?){60}) ', r'\1\n  ', strategy)
-#    strategy = re.sub(r'^(.*?(.*?){80}) ', r'\1\n  ', strategy)
 
-    #print('  {0:<15} {1:<35}'.format("Strategy:\n", strategy))
-    #print('  {:<15}'.format(color.CYAN + "Strategy:" + color.ENDC))
     print(color.CYAN + 'Strategy:' + color.ENDC)
     print("  " + "\n  ".join(strategy))
-    #print('  {:<15}'.format(strategy))
     print()
    
-   # ''.join((f" - {i}\n" for i in user_input_array)
     if data['tips']:
         print('{0:<15}\n{1:<35}'.format("Tips:", ''.join((f"\t- {i}\n" for i in data['tips']))))
         print("")
 
-    #print('{0:<15}\n{1:<35}'.format("Abilities:", ""))
     print(color.CYAN + 'Abilities:' + color.ENDC)
 
     # do our passive
     passive_description = data['passive']['description']
     passive_description = re.sub('<[^<]+?>', ' ', passive_description)
     pdesc = textwrap.wrap(passive_description, 100)
-    #passive_description = re.sub(r'^(.*?( .*?){20}) ', r'\1\n  ', passive_description)
-    #passive_description = re.sub(r'^(.*?( .*?){30}) ', r'\1\n  ', passive_description)
     passive_str = color.GREEN + color.BOLD + data['passive']['name'] + color.ENDC + " [" + color.BLUE + "Passive" + color.ENDC + "]" 
 
     print('  {:<15}'.format(passive_str))
@@ -144,34 +132,20 @@ def printMatchup(data):
 
         range_str = "{0:.0f}".format(ranges[0]) if ranges[0] == ranges[1] and ranges[1] == ranges[2] and ranges[2] == ranges[3] and ranges[3] == ranges[4] else '/'.join((f"{i:.0f}" for i in ability['range']))
         cooldown_str = color.BOLD + '/'.join((f"{i:.0f}" for i in ability['cooldownCoefficients'])) + color.ENDC
+        range_str = color.BOLD + range_str + color.ENDC
         
-        head = color.GREEN + color.BOLD + ability['name'] + color.ENDC + " [" + color.BLUE + k + color.ENDC + "] - Cooldown: (" + cooldown_str + ") " + "Range: " + range_str 
+        head = color.GREEN + color.BOLD + ability['name'] + color.ENDC + " [" + color.BLUE + color.BOLD + k + color.ENDC + "] - Cooldown: (" + cooldown_str + ") " + "Range: " + range_str 
 
         description = ability['description']
         description = re.sub('<[^<]+?>', '', description)
         desc = textwrap.wrap(description, 100)
-        #print( '/'.join((f"{i:.0f}" for i in ability['range'])))
-        #print('  {0:<10} {1:<15} - {2:<35}\n'.format("Q", data['abilities'][0]['name'] + " (" + '/'.join((f"{i:.0f}" for i in data['abilities'][0]['cooldownCoefficients'])) + ") " , data['abilities'][0]['description']))
-        #print('  {0:<10} {1:<15} - {2:<35}\n'.format(key_binds[index], ability['name'] + " (" + '/'.join((f"{i:.0f}" for i in ability['cooldownCoefficients'])) + ") " , ability['description']))
         print('  {0:<4}'.format(head))
         print("  " + "\n  ".join(desc))
-        #print('  {0:<4}'.format(description))
         print()
-        #print('  {0:<10} {1:<15} - {2:<35}\n'.format("","", description))
-
-
-    
-    #print( '/'.join((f"{i:.0f}" for i in data['abilities'][0]['range'])))
-    #print('  {0:<10} {1:<15} - {2:<35}\n'.format("Q", data['abilities'][0]['name'] + " (" + '/'.join((f"{i:.0f}" for i in data['abilities'][0]['cooldownCoefficients'])) + ") " , data['abilities'][0]['description']))
-    #print('  {0:<10} {1:<15} - {2:<35}\n'.format("W", data['abilities'][1]['name'] + " (" + '/'.join((f"{i:.0f}" for i in data['abilities'][1]['cooldownCoefficients'])) + ") " , data['abilities'][1]['description']))
-    #print('  {0:<10} {1:<15} - {2:<35}\n'.format("E", data['abilities'][2]['name'] + " (" + '/'.join((f"{i:.0f}" for i in data['abilities'][2]['cooldownCoefficients'])) + ") " , data['abilities'][2]['description']))
-    #print('  {0:<10} {1:<15} - {2:<35}\n'.format("R", data['abilities'][3]['name'] + " (" + '/'.join((f"{i:.0f}" for i in data['abilities'][3]['cooldownCoefficients'])) + ") " , data['abilities'][3]['description']))
-
-
     
     
-f = open("./matchup.json")
-json_matchup = json.load(f)
+#f = open("./matchup.json")
+#json_matchup = json.load(f)
 
 if args.local: 
     f = open("./matchup.json")
