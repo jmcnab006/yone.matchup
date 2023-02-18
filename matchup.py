@@ -96,8 +96,11 @@ def printMatchup(data):
     print()
    
     if data['tips']:
-        print('{0:<15}\n{1:<35}'.format("Tips:", ''.join((f"\t- {i}\n" for i in data['tips']))))
-        print("")
+        print(color.CYAN + 'General Tips:' + color.ENDC)
+        for tip in data['tips']:
+            print('  - {:<15}'.format(tip))
+            #print('{0:<15}\n{1:<35}'.format("Tips:", ''.join((f"\t- {i}\n" for i in data['tips']))))
+            print("")
 
     print(color.CYAN + 'Abilities:' + color.ENDC)
 
@@ -105,7 +108,7 @@ def printMatchup(data):
     passive_description = data['passive']['description']
     passive_description = re.sub('<[^<]+?>', ' ', passive_description)
     pdesc = textwrap.wrap(passive_description, 100)
-    passive_str = color.GREEN + color.BOLD + data['passive']['name'] + color.ENDC + " [" + color.BLUE + "Passive" + color.ENDC + "]" 
+    passive_str = color.GREEN + color.BOLD + data['passive']['name'] + color.ENDC + " [" + color.BLUE + color.BOLD + "Passive" + color.ENDC + "]" 
 
     print('  {:<15}'.format(passive_str))
     print("  " + "\n  ".join(pdesc))
