@@ -10,7 +10,9 @@
       "strategy": "Don't trade with Aatrox when he has his passive active. It has a very long cooldown, so whenever he uses, look to trade with him. Do your best to dodge his sweet spots or you will take a lot of damage. If you get hit by his W, you can E out of it, to the side and back. Don't fight him in his ult, unless you already have grevious wounds. He will outheal your damage.",
       "tips": [
         "Do not trade with Aatrox when it has his passive active. It has a very long cooldown. Trade when its down",
-        "Do your best to dodge the sweet spots",
+        "For his first Q, the sweet spot is at the farthest edge in the middle. You should dodge this ability by moving to the side.",
+	"His second Q’s sweet spot is at the far edges (farthest away from him). To make dodging this ability easier, run towards him slightly.",
+	"For his final Q, he slams down at a centred target location. The centre is the sweet spot. To dodge this, back of and out of range.",
         "If you get hit by his W you can e out of it to the side and back",
         "Do not fight Aatrox in his ult, unless you have greivous he will outheal your damage"
       ],
@@ -24,11 +26,13 @@
       ],
       "rune_suggestions": [
         "Bone Plating",
-        "Overgrowth"
+        "Overgrowth",
+        "Armor"
       ],
       "summoner_spells": [
         "Flash",
-        "Ignite"
+        "Ignite",
+        "Teleport (Top)"
       ]
     },
     "ahri": {
@@ -41,7 +45,8 @@
       "strategy": "Don't ever Q3 into her if she has charm up. You will take her full combo to the face and die. Do your best to dodge her Q poke early game, especially the return which is true damage. At level 6, it's harder to kill her because she's so mobile. Bait out her charm and then look for short trades or an all-in if you can. Never ult into her if she has her ult up, or she will just ult away and live.",
       "tips": [
         "Ahri's survival skills are considerably reduced when his ultimate skill, Spiritual assault, is not available.",
-        "Stay behind the minions to prevent Charme from touching you easily. This greatly reduces Ahri's offensive potential."
+        "Ahri is all about her charm. Stand behind minions or predict the way she’ll throw it so she can’t hit you with a big combo.",
+	"Be sure to ward often. Ahri likes to roam quite a bit, and if your team doesn’t see it coming it can be devastating."
       ],
       "build_items": [
         "Immortal Shieldbow"
