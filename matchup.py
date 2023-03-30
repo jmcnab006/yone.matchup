@@ -12,7 +12,7 @@ parser.add_argument('name', nargs='?', help="name of the champion")
 parser.add_argument('-l', '--local', action='store_true', help="use local matchup.json file")
 parser.add_argument('-D', '--DEBUG', action='store_true', help="use local matchup.json file")
 args = parser.parse_args()
-
+# just color
 class color:
     RED = '\033[91m'
     GREEN = '\033[92m'
