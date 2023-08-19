@@ -182,7 +182,8 @@
       ],
       "summoner_spells": [
         "Flash",
-        "Ignite"
+        "Ignite",
+	"Teleport"
       ]
     },
     "azir": {
