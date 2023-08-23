@@ -1305,7 +1305,7 @@
       ],
       "summoner_spells": [
         "Flash",
-        "Ignite"
+        "exhaust"
       ]
     },
     "quinn": {
@@ -1646,7 +1646,7 @@
       ],
       "summoner_spells": [
         "Flash",
-        "Ignite"
+        "Exhaust"
       ]
     },
     "teemo": {
