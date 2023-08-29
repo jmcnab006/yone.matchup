@@ -1470,11 +1470,11 @@
       "id": 875,
       "difficulty": 9,
       "start_items": [
-        "Doran's Blade",
+        "Doran's Shield",
         "Potion"
       ],
       "strategy": "This matchup is pretty hard. Don't walk up near your minions or he will E and stun you and out-trade you. He out sustains you as well because of his passive. Save your E to dodge his W. He just stat checks you all game, so you'll probably never win 1v1 unless you outplay him. Lane is a bit easier after Shieldbow, but Sett is Sett.",
-      "tips": [],
+      "tips": ["Dzukill: take early bad trade to make sure you get the push"],
       "build_items": [
         "Kraken Slayer",
         "Blade of the Ruined King"
