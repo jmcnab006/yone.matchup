@@ -16,10 +16,6 @@
         "If you get hit by his W you can e out of it to the side and back",
         "Do not fight Aatrox in his ult, unless you have greivous he will outheal your damage"
       ],
-      "summoners": [
-        "Flash",
-        "Ignite"
-      ],
       "build_items": [
         "Kraken Slayer"
       ],
@@ -30,7 +26,7 @@
       ],
       "summoner_spells": [
         "Flash",
-        "Ignite",
+        "Ignite (Mid)",
         "Teleport (Top)"
       ]
     },
