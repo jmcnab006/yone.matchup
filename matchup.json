@@ -54,6 +54,7 @@
       ],
       "summoner_spells": [
         "Flash",
+        "Teleport (safe)",
         "Ignite"
       ]
     },
@@ -80,6 +81,7 @@
       ],
       "summoner_spells": [
         "Flash",
+	"Teleport (safe)",
         "Ignite"
       ]
     },
@@ -104,7 +106,8 @@
       ],
       "summoner_spells": [
         "Flash",
-        "Teleport"
+        "Exhaust",
+        "Teleport (safe)"
       ]
     },
     "anivia": {
