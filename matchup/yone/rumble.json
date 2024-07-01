@@ -1,0 +1,22 @@
+{
+  "id": 68,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is very hard. He can miss everything and still kill you because of how his heat works. Do your best to dodge his Es because they give him more magic pen. Don't fight him when he uses Q or you will always lose the trade. Ping him mia because Rumbles love to roam. He just does way too much damage for Yone to handle. Do NOT fight him when he's overheated; his autos will outdamage yours.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

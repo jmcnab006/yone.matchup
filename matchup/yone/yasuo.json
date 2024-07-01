@@ -1,0 +1,29 @@
+{
+  "id": 157,
+  "difficulty": 6,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "He's much stronger up to level 3. Don't take too much damage at first and you'll be fine. He will seek to block your Q3. You can always eliminate his passive. Try not to fight in the wave of minions because it will E over and over again. This matchup is purely a skill matchup after level 3.",
+  "tips": [
+    "Steel Storm is not very wide. Move sideways to try to dodge it.",
+    "When Yasuo places two Steel Storms in a row, the next one will trigger a tornado. Watch for the sound that announces this effect and get ready to dodge.",
+    "Yasuo is less dangerous after firing a tornado. Attack then.",
+    "Shield of Determination lasts 2 sec. Inflicting damage on Yasuo triggers the shield: attack when it disappears."
+  ],
+  "build_items": [
+    "Kraken Slayer",
+    "Infinity Edge",
+    "Death's Dance"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

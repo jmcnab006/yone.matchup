@@ -1,0 +1,22 @@
+{
+  "id": 106,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Very tough lane. Take short trades against him and kite him out. If he Ws you, you have to back off or you will take a lot of damage and he will get healed. W him when he goes to Q you. Use your E to kite him. Be careful at level 6 because he can dive you.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

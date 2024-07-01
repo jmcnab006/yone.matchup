@@ -1,0 +1,22 @@
+{
+  "id": 42,
+  "difficulty": 1,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is incredibly easy. His early game is pretty much non-existent. Try to bait out his W, so you can all-in him. The only way you ever lose this lane is if you let him freely harass you or do literally nothing. When he has his 'Big One' rocket, do not try to trade or all-in with him. Try to dodge it, then trade",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

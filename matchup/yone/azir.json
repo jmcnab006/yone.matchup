@@ -1,0 +1,26 @@
+{
+  "id": 268,
+  "difficulty": 6,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is Yone favored, provided you don't let him harass you for free. Take D Shield and Second Wind and lane is a lot easier. You can cancel his Ult's CC with your Q3 or your Ult. Use your W to block his Q damage. Get on top of him so he can't E away and escape. If his E collides with you, it will stop him from taking the entire E.",
+  "tips": [
+    "Azir relies on his soldiers to deal damage but cannot move them at will. Try to take advantage of the windows during which his soldiers are stationary.",
+    "Azir does massive damage over long periods of time but lacks the powerful burst of other mages. Try to crush him fast, before he can turn the tide of the fight.",
+    "Sand soldiers are like fire: don't stay in the middle."
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 63,
+  "difficulty": 2,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is really easy, provided you can dodge his Q and W. Take very short trades with him and he will never be able to full combo you. Not very many people play this champ outside of support, so you will rarely ever play against Brand mid. Don't Q3 into him or he will full combo you.",
+  "tips": [
+    "Brand must use a skill to initiate his combo. If you dodge Burning or Column of flames, you will interrupt its routine.",
+    "Remember to get away from your allies when you see him incant Pyrolysis. The speed of the projectile is quite slow at the start, which leaves time to react.",
+    "Brand's passive competence allows him to excel against the grouped teams. Don't all stay in one place.",
+    "To all in Ult when brand casts his Q to make you unstoppable during animation"
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 38,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup seems pretty easy, but a good Kassadin can make this lane exhausting. He does a lot more damage than most people expect, especially when he takes electrocute. Your Q spam will help him use his E more, so be aware of that. Do your best to space properly so he can't AA, W, Q you. At level 6, he is a lot stronger. Look to all-in him when he uses his Ult.",
+  "tips": [
+    "Kassadin primarily deals magic damage. In case of difficulty, buy items that improve magic resistance, such as Mercury's Sandals or Banshee's Veil.",
+    "When Kassadin casts consecutive Fissures, he uses more and more mana. Think about it when you chase him.",
+    "It only takes 6 spell casts for Kassadin to be able to use Pulse. If he improves this skill, beware when using spells near him."
+  ],
+  "build_items": [
+    "Blade of the Ruined King"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

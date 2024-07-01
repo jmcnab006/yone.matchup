@@ -1,0 +1,25 @@
+{
+  "id": 164,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This champion is still very strong even after all the nerfs. She will probably take TP/Ignite. Do not stand next to walls or she will just all-in you. Stay out of her AA range when her Q2 is active. Use your W in response to her W. As long as you keep up in items/gold, you should be able to 1v1 her. Whoever hits their mythic first will take over the lane. Your E can also stop her R if you time it right. Use your E to dodge her E.",
+  "tips": [
+    "Camille's shield only works against one damage type at a time, so attack her when she's vulnerable to your damage.",
+    "Hextech Ultimatum cast range is very short. So try to Flash to get away before Camille gets close enough."
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

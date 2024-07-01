@@ -1,0 +1,22 @@
+{
+  "id": 64,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "Solo lane Lee Sin isn't really a thing anymore since they nerfed it, but people still play it sometimes. Do your best to dodge his Qs. You HAVE to dodge his Es becaue they do so much damage (high base damage. Be careful once he's level 6 because his Ult is point click damage. You can rush cloth armor if their jungler and/or mid laner are ad as well. Just look to farm and scale. It's hard to kill him because he can just W away or ward hop away.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Conditioning",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

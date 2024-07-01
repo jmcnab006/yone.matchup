@@ -1,0 +1,23 @@
+{
+  "id": 98,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is hard. Try to dodge his E with yours. Don't fight him in his W. Just play to scale. This lane is a lot easier after Shieldbow. Ping him when he's 6 and try to keep track of his ult cd. Don't walk between him and his sword, because if it goes through you, he will slow you and do more damage.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer",
+    "Blade of the Ruined King"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

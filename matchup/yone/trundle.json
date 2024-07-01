@@ -1,0 +1,22 @@
+{
+  "id": 48,
+  "difficulty": 6,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "Don't try to fight him level 1. His Q steals your AD, and if he takes Lethal Tempo, you will not win it. I feel like you can just perma jump on him with E until 6. After he has his Ult, do NOT try to fight him bc he will steal your armor/mr so just do your best to kite out of it + his pillar. You can beat him in the side lane later on if you are fed enough. If they have a lot of healing in their comp, executioner's / mortal reminder is extremely valuable.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

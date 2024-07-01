@@ -1,0 +1,23 @@
+{
+  "id": 27,
+  "difficulty": 2,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "Rule #1 of League of Legends: Don't chase Singed. You can kill him level 1 because of Lethal Tempo. His W counters your Q3 and your E, so just try not to fight him when he uses it. Whenever he ults, just disengage; he gets so many free stats and it's not worth your time or damage to fight him. Lane is very easy after Shieldbow.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer",
+    "Blade of the Ruined King"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

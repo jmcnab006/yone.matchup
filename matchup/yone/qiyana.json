@@ -1,0 +1,22 @@
+{
+  "id": 246,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is annoying because of her stealth and mobility. Early cloth armor is good here so she can't 100 to 0 you. Do your best to dodge her Qs. You can dodge her ult with your E or ult. She can really punish your positioning; don't stand near walls or you'll die or get really chunked. Ping her when she's mia because she loves to roam. Be careful in river because her ult will also stun you there.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "exhaust"
+  ]
+}

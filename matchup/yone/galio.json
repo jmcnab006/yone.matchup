@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "difficulty": 3,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This lane is very boring. Galio can never kill you unless he has help. His damage is just too low. The annoying part about this lane is his insane gank setup, so be very careful if you overextend and do your best to play around vision. Ping mia when he decides to roam after pushing you under tower. You can cancel his W with your E if you time it correctly.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

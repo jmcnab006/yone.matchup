@@ -1,0 +1,22 @@
+{
+  "id": 101,
+  "difficulty": 2,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Just dodge his poke and this lane is incredibly easy. If you freeze the wave at your tower, he is forced to walk up. He is very vulnerable to ganks and super immobile. Use your E to dodge his Q, W, and ults. If you ever Q3 or E at him, he will just E you. At level 6, you can just ult him and he can't do much.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

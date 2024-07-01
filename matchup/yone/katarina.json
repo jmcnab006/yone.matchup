@@ -1,0 +1,25 @@
+{
+  "id": 55,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This lane is pretty boring because she will just roam. Do not stand on or near her daggers, or she will look to trade with you. You heavily out-sustain her. Just ping her roams because they rely on this to get fed. She will probably dodge your Q3 and Ult with her E, so try to all-in her when she doesn't have it. When you look for a trade, go on her with either Q1 or Q2; she will easily dodge your Q3.",
+  "tips": [
+    "Katarina's skills deal magic damage. Even if she buys items that increase her attack damage, increase your magic resistance to counter her.",
+    "Try to save a hindering effect for when Katarina uses Death Lotus."
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

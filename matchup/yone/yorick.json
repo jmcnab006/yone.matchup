@@ -1,0 +1,22 @@
+{
+  "id": 83,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is Yone favored. Do your best to dodge his Es so his ghouls don't jump on you. When he Ws you, you can E out of it, stack Q3, E back, then Q3 to safety or all-in him if you think you have the damage to kill him. Once he's level 6, it's really hard to fight him with his Maiden up. Yorick is incredibly susceptible to ganks, so just try to get your jungler to come top for you.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

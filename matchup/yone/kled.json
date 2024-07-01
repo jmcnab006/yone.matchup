@@ -1,0 +1,22 @@
+{
+  "id": 240,
+  "difficulty": 9,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "Do your best to dodge his Qs or you will lose every trade. Do not try to trade with him when his W is active; he does a lot of damage. If you ever Q3 into him, he will just Q you and you'll lose the trade. Go for an all-in on him whenever he's unmounted; he's very immobile and won't be able to dodge your Q3 or your Ult.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

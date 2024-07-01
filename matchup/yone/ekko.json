@@ -1,0 +1,22 @@
+{
+  "id": 245,
+  "difficulty": 3,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This lane is pretty easy. He will always E out of your Q3 and just get a massive trade on you. He's very mobile so try to catch him off guard when he's going for a cs. Always pay attention to his ult shadow and his W or you will die. Always be aware of the audio cue.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

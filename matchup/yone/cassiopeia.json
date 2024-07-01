@@ -1,0 +1,25 @@
+{
+  "id": 69,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup depends on how good the Cass is. Do your best to dodge her Q poke. You can never Q3 into her or she will just ult you. Her W prevents you from Q3'ing, E'ing, and returning to your E. Use your E to dodge her Q if needed. She is very susceptible to ganks, so try to freeze the wave at your tower and call for jungle help. Only go on her if she misses her Q trying to harass you. Max range ulting is better than Q3'ing because she can't react to it unless she flashes.",
+  "tips": [
+    "If you are poisoned, beware of the potential damage Cassiopeia inflicts with Fatal Bite.",
+    "Turn your back to Cassiopeia when she casts Medusa's Gaze, to be slowed rather than stunned."
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

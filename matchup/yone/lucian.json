@@ -1,0 +1,24 @@
+{
+  "id": 236,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Lucian is very oppressive early. You cannot fight him until you have zerks and vamp scepter. Play with the goal to scale and hit your item spikes. Do your best to farm without taking too much poke or you will be susceptible to ganks/dives.",
+  "tips": [
+    "play passive till vampire staff and berserkers, focus on farm"
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

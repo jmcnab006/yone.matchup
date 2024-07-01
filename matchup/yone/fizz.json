@@ -1,0 +1,25 @@
+{
+  "id": 105,
+  "difficulty": 6,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is pretty even. Save your E to dodge his E. Early null-magic mantle is good, similar to the Annie matchup so he can never 100 to 0 you. Save your W for when he Qs into you to block a big part of his burst trade. He can animation cancel his Ult with his Q, so be aware of that. Use your E to dodge his shark as well.",
+  "tips": [
+    "Fizz's attacks become deadly for seconds after his empowered attack. Keep him at bay when his trident shines!",
+    "Fizz is elusive when his skills are not on cooldown. Push him to use them quickly, then follow up with crowd control or heavy attacks!"
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 24,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is incredibly hard. Just play for short trades against him. Save your E for when he Qs onto you and Es so you can avoid the stun. Once you get Shieldbow, the lane becomes a lot easier. You will never win a stat check against him, so do your best to kite him and only fight him when you're in your E. If you ever take an extended trade with him, you will always lose because of his passive, his mixed damage, and his E.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

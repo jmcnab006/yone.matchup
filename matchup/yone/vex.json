@@ -1,0 +1,22 @@
+{
+  "id": 711,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is a nightmare early. Her kit just counters yours. Her passive will fear you out of your Q3 and your E. Go on her when she uses her spells to wave clear and when her passive is on cooldown. You can't fight her when her passive is active. Early null magic mantle similar to Annie or Fizz will prevent her from oneshotting you with her full combo at level 6.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

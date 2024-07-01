@@ -1,0 +1,22 @@
+{
+  "id": 61,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Probably the most even matchup for Yone. Her poke is very annoying early, but she's very immobile. Don't let her auto or poke you for free and this lane is a lot easier for you. She's decently tanky because of her E passive when her ball is on her. Look for a trade or an all-in when her ball is not on her or when she uses Q and/or W. You start winning at zerks and vamp scepter.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 131,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is pretty even, provided you can dodge her Q harass. She is better early since she has Hextech Alternator and sorc shoes. As soon as you get shieldbow, she can never one shot you and you just take over the lane easily. Try to always go in when she misses her Q. If she hits Q, just back up.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

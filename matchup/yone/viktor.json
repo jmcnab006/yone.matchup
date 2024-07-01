@@ -1,0 +1,25 @@
+{
+  "id": 112,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Pretty much a farm lane. Just don't take too much poke from him and you're fine. He will look to push you in when he gets his E augment. Use your W to shield some of his Q poke. If you ever Q3 or E onto him, he will just W, so E out. At level 6, it's a bit easier, but he does a lot of damage so try to trade or all-in when he uses Q or E.",
+  "tips": [
+    "Be careful if you let Viktor approach you. The closer he is to his opponent, the more his control over the battlefield increases.",
+    "To know the number of improvements obtained by Viktor, look at the color of the light on his staff (purple, yellow, blue, red)."
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

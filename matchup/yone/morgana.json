@@ -1,0 +1,22 @@
+{
+  "id": 25,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is annoying early, but it's still fairly easy. Don't stand in her W. Never Q3 into her or she will Q you. Only do it if you know she's already used Q.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

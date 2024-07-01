@@ -1,0 +1,22 @@
+{
+  "id": 147,
+  "difficulty": 1,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is free. You get to scale, she has no kill pressure unless you try to get hit by everything. You roll her at Shieldbow so just farm until then. She plays super far back, so just focus on cs instead of trying to kill her. She can be annoying because of her sustain, shields, and her movement speed.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

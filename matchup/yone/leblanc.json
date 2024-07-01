@@ -1,0 +1,28 @@
+{
+  "id": 7,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is incredibly hard. Not only does she shit on you 1v1, she also has really good gank setup just like Galio. Use your W when she throws Q at you. Try to freeze the wave at your tower. Play this matchup to scale. If you are even against her, you are already winning. Never Q3 into her because she will just double chain you and you'll die.",
+  "tips": [
+    "LeBlanc's ultimate can create copies of LeBlanc when casting spells or, more rarely, in a distant location.",
+    "The copy of LeBlanc created from a distance always runs to the nearest champion, casts a harmless spell, then disappears.",
+    "Attacking LeBlanc first avoids most of her tricks, especially if she just used her Distortion.",
+    "Stunning or silencing LeBlanc prevents her from activating Warp Feedback."
+  ],
+  "build_items": [
+    "Doran's Blade (Early)",
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Overgrowth",
+    "Conditioning",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

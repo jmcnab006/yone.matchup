@@ -1,0 +1,22 @@
+{
+  "id": 117,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is easy, but annoying. Once you get vamp scepter you will out sustain her damage. Her W is very annoying regardless of the game state. Always try to E back when she Ws you so you don't take any free damage. Remember she has a lot of shields and her Ult healing. Don't get baited when you try to all-in her.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

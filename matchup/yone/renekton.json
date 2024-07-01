@@ -1,0 +1,22 @@
+{
+  "id": 58,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is impossible to win 1v1 just because his kit counters yours. Early tabis is a must. The only window you have to beat him early is at level 1 and level 2; he is incredibly weak at this point. After that, you can't trade with him unless he misplays. Be extra careful if he goes Prowler's because he will 100 to 0 you even through tabis. At level 6, you still can't fight him, so just do your best to not die on repeat.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

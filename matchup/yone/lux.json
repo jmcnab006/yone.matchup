@@ -1,0 +1,22 @@
+{
+  "id": 99,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is annoying early, but it's still fairly easy. Always try to dodge her E and her Q or you will get chunked. Never Q3 into her or she will full combo you. Only do it if you know she's already used E and/or Q.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

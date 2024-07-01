@@ -1,0 +1,22 @@
+{
+  "id": 86,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is incredibly annoying because of his sustain and his W. They usually take ignite and try to cheese you. When you engage on him, he'll probably use his W. If that happens, just E back and wait to trade with him. Always try to E back when he goes to Q you or you will lose trades very badly. Farm until Shiedlbow and you'll have an easier time fighting him.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

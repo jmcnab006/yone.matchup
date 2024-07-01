@@ -1,0 +1,22 @@
+{
+  "id": 45,
+  "difficulty": 2,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is incredibly easy. You get to free farm and scale. Do your best to dodge his Q and W. The only real threat he has is his cage, especially if and when you get ganked. Your E will stop the stun, but you will be stunned when you return back. If you're in the cage, you can ult out of it since you're unstoppable. Try to deny him his stacks, but don't overplay the trade.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This lane is impossible early. If you walk up, she just E Ws you and you die or blow flash. Play super safe early and give up cs, but try to stay in xp range. If she Ws onto you, try to E into her to dodge the damage and the slow, stack your Q3 on the wave, E back, and Q3 to safety. Exhaust is a must in matchup. The lane is a lot easier the more you scale, so just do your best to farm.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

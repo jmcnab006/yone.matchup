@@ -1,0 +1,22 @@
+{
+  "id": 54,
+  "difficulty": 6,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "One of the more annoying tanks because of the attack speed slow on his E and his armor early game. His poke early is very annoying, so do your best to W when he Qs. He should never be able to kill you 1v1, but at level 6 be careful of his Ult, especially if his jungler is near. You will either die or have to blow flash.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

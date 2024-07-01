@@ -1,0 +1,22 @@
+{
+  "id": 41,
+  "difficulty": 9,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "A good GP is a nightmare for anyone. His q poke is oppressive, especially after he buys Sheen. Don't let him proc grasp for free, play safe until zerks and vamp scepter and you should be able to take over the lane fairly easily. However, once you get Shieldbow you dumpster him. Be very careful of his barrels, as they do massive damage and slow you for a while. If you go up for CS, time your W with his Q so you avoid some poke damage.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

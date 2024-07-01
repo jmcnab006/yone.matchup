@@ -1,0 +1,22 @@
+{
+  "id": 23,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is annoying but it's Yone favored. He out sustains you. He is a lot stronger than you early with Lethal Tempo, so respect that. When he Es onto you, E into the wave, stack Q3, return to your E, and Q3 out. Do your best to kite him. You can take ignite in this matchup to win the level 1, but if you die, your lane is over.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

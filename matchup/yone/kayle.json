@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "difficulty": 1,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "There's no easier lane for Yone. Just don't fight her level 1 with Lethal Tempo because she is a lot stronger with it. You can perma all-in her whenever you want until level 6. She can't walk up to the wave early or she will get chunked. At level 6, it becomes a bit more difficult because of her range, but just get Q3s and all-in her with your E. If she ults, just E back and wait for your E to come up again and just all-in her again.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

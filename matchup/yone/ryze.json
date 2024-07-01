@@ -1,0 +1,26 @@
+{
+  "id": 13,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "He is very annoying early game. He just hard pushes you in. This matchup is a lot easier with Lethal Tempo, but he still does a decent amount of damage. Don't let him harass you for free. Don't stand near the wave when he EQs or you will get hit too. You can kill him at level 6 if he mis-steps or overstays. If he tries to Ult away, Q3 or ult him and his ult will be cancelled.",
+  "tips": [
+    "Ryze is particularly dangerous against opponents marked by Flux.",
+    "Take advantage of the Warp Portal's activation time to decide how to deal with what may come out of it.",
+    "Inflicting crowd control on Ryze while Dimensional Portal is active will cancel the portal."
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

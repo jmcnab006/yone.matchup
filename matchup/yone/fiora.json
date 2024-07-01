@@ -1,0 +1,22 @@
+{
+  "id": 114,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This lane is pretty hard. Never Q3 into her or she will just parry you and you will die. Pay attention to vitals. You can run out of her vision to get a new one if needed. Rush executioner's early game to cut down on her healing. You can bait her parry out by Q3 in a different direction from where she is. Look to fight her when her parry is down; you cannot fight her otherwise.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

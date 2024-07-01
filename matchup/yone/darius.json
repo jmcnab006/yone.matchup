@@ -1,0 +1,22 @@
+{
+  "id": 122,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "iThis matchup is incredibly hard, regardless of how well you play it. A good Darius will freeze the wave at his tower and you're unable to play the game. If you walk up, he will just Ghost, run you down, and kill you on repeat. The only chance you have of living is ulting away immediately. Don't ever let him 5 stack his passive or you're dead or very chunked. Save your E for when he uses Q to dodge the sweet spot. Take short trades against him and do your best to kite. You will never win 1v1 until you have Shieldbow.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

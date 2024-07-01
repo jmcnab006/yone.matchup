@@ -1,0 +1,22 @@
+{
+  "id": 104,
+  "difficulty": 6,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is pretty even. He will just look to push you in 24/7 so just play to scale and for farm. Do your best to not interact with him; he does a lot of damage and has a lot of burst as well as waveclear. Don't line up near a wall or his Q will 100% hit you. Make sure to keep track of his E stacks.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

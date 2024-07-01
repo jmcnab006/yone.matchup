@@ -1,0 +1,22 @@
+{
+  "id": 107,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is just as unplayable as the Irelia matchup, but he is susceptible to ganks. That's his only weakness. Rush early cloth armor or you will get one shot over and over. You will never have prio early, so give up cs and let the wave push into you. Call your jungler to help you push the wave to his tower or you will never break his freeze. Do your best to survive and not die 100 times during laning phase and group with your team later on. Giving up 50cs and dying less is a lot better than contesting every cs but dying 10 times.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

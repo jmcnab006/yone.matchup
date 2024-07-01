@@ -1,0 +1,22 @@
+{
+  "id": 223,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "Yone is actually very good against him because he is very mobile. You can dodge his W with your E. Just do your best to dodge his Qs or you'll lose the way very easily. You can practically scale and farm in this matchup. Just respect his level 1. The path is much easier after Shieldbow, but he will still give you a stat check. Try not to process your E before his shield deactivates. Try to save your Q3 for the end of your E in case he tries to W you when you get back to it.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

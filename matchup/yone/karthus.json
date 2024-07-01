@@ -1,0 +1,22 @@
+{
+  "id": 30,
+  "difficulty": 1,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This lane is probably one of the easiest. Rush zerks so you can dodge his Qs easier and the lane is cake. He has no CC for you. Nobody really plays this champ unless it's a one trick, so you won't play against it often.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

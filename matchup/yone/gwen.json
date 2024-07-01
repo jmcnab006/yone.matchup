@@ -1,0 +1,22 @@
+{
+  "id": 887,
+  "difficulty": 3,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is pretty easy for Yone. Gwen is also a scaling champ so the lane isn't too difficult. Yone is very mobile, so you can easily dodge her empowered Q and kite out of her Ult safely. Keep in mind your R and Q3 will not hit her if you are outside of her W. Respect her level 1 as she is incredibly strong with the new Lethal Tempo.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

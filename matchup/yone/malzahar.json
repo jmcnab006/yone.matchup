@@ -1,0 +1,22 @@
+{
+  "id": 90,
+  "difficulty": 2,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is very free. You get to scale freely and he has no kill pressure on you until level 6. The only negative in this matchup is you are roped into buying a QSS. Don't rush it; instead get zerks, then vamp scepter, and then QSS into Shieldbow. You can pretty much kill him on cooldown because he's so immobile and squishy.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

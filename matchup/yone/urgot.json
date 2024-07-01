@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "Use your E to dodge his E. If you ever get hit by his E, you either die or have to blow flash. He completely controls the lane early game, so just do your best to farm and scale. The lane is super easy after Shieldbow as long as you can dodge his E.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

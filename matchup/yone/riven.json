@@ -1,0 +1,22 @@
+{
+  "id": 92,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is a nightmare and it's totally in Riven's control. Her champ is just better. She can just perma engage on you, perma cc you, and 100 to 0 you with Conq. Do your best to farm and scale. At level 6, if you mis-step or use your E incorrectly, you just die. She just permanently stat checks you.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

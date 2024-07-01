@@ -1,0 +1,23 @@
+{
+  "id": 75,
+  "difficulty": 3,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "Win this lane by freezing at your tower. He's so immobile and incredibly easy to gank. Trade with him when he goes for stacks, as this is his only way to get damage. Any time he withers you, just disengage. The attack speed and movement speed slows are oppressive. Your trades are most effective when you have your E because of the true damage on the mark proc. At level 6, just be careful because that's when he is at his strongest. Just disengage and kite when he tries to all-in you.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer",
+    "Executiononers Calling"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Unflinching",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 126,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "A good Jayce is a nightmare for anyone. He will look to poke you in and out of bushes level 1, so don't take too much free damage. If you catch him off guard in the bushes however, you can actually 1v1 him level 1 and force his flash. Always be aware of his QE combo. Watch minion HP bars because he will look to surprise you with it. Do your best to farm and scale. His ult cd is 6 seconds, so take advantage of this cooldown when possible. He does a lot of damage so do your best to dodge his abilities. If you ever go for an all-in, do it when he's in cannon form. Hammer form gives him more resistances.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

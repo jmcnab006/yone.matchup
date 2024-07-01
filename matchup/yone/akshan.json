@@ -1,0 +1,25 @@
+{
+  "id": 166,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Akshan is very oppressive early. You cannot fight him until you have zerks and vamp scepter. Play with the goal to scale and hit your item spikes. Do your best to farm without taking too much poke or you will be susceptible to ganks/dives. Don't stay in the wave because he will Q the wave, damaging you and pushing the wave at the same time. The more targets his Q hits, the further it will go.",
+  "tips": [
+    "play passive till vampire staff and berserkers, focus on farm"
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Exhaust",
+    "Teleport (safe)"
+  ]
+}

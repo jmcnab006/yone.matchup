@@ -1,0 +1,22 @@
+{
+  "id": 161,
+  "difficulty": 2,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "Relatively easy matchup as long as you can dodge his kit. Stay out of the wave when he Ws. You can dodge his Q and E with your E. When he uses his abilities on the wave, then you can look for a trade or an all-in. He should be pretty easy to kill after level 6 since he's immobile.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

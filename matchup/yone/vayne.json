@@ -1,0 +1,22 @@
+{
+  "id": 67,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This lane is similar to Akshan or Lucian. You can't walk up for cs or you'll just get chunked. Do your best to stay in xp range while giving up cs. You can't really trade with her until Shieldbow, but even then her mobility is obnoxious. Don't ever let her proc her W on you. She is very squishy, so once you get on her, you should be able to kill her. If you E or Q3 her, she will just E you away. Don't ever go near a wall or she will E you into the wall and you will probably die.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

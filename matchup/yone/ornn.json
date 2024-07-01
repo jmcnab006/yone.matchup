@@ -1,0 +1,22 @@
+{
+  "id": 516,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "One of the easier tank matchups. You get to scale for free because he does no damage. Just do you best to dodge his Qs and don't stay near his Q or walls because of his E. Don't let him W auto you and this lane is free. You can E to dodge his ult if you time it correctly. Save your E for when he Ws you; you will go behind him and he won't get the brittle on you.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

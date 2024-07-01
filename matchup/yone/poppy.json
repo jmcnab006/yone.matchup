@@ -1,0 +1,22 @@
+{
+  "id": 78,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is very hard if she's good. She has really high base damages and her W counters your entire kit. If you Q3 or E into her, you'll be grounded for a while and she can just out trade you. Try to step on her passive when she uses it to farm. Do NOT go near walls for any reason or you will die/get chunked. If she uses her passive on you, just W the damage. At Shieldbow, this lane is a bit easier, but Poppy is still Poppy.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

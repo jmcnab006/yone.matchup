@@ -1,0 +1,22 @@
+{
+  "id": 14,
+  "difficulty": 2,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is incredibly easy. He has such long cooldowns early so just abuse that. Later on in the lane, it's more annoying because of how tanky he gets, but his abilities are so telegraphed; he should never kill you. Respect bushes and don't let him fully charge Q on you. You can break his W before it charges to block its damage. You can perma all-in with E; the true damage from the mark will help with trades.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

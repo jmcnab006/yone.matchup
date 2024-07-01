@@ -1,0 +1,28 @@
+{
+  "id": 4,
+  "difficulty": 6,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is Twisted Fate favored to a degree. Trade or all-in him when he uses his W. Do your best to dodge his Qs. He will just look to push and roam, so ping him mia when he does. You can cleanse his Gold Card with proper timing on your E.",
+  "tips": [
+    "Trade or all in him when he uses his W",
+    "Do your best to dodge his Q's",
+    "Use E to dodge his E",
+    "Twisted Fate controls the early game, farm and scale",
+    "Be very wary of his roaming and ping MIA"
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

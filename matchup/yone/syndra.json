@@ -1,0 +1,26 @@
+{
+  "id": 134,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is one of the more annoying mage matchups. She will Q you whenever you go for cs. When you E, she will just E you in return. To counter this, try to be more erratic with your movement to dodge it. You can only all-in or trade with her if she misses her E. Early mantle is good so she can't 100 to 0 you when she hits level 6. Play to scale and set up ganks with your jungler because she's very immobile.",
+  "tips": [
+    "Quickly grab boots when playing against Syndra, they will help you avoid many of her spells.",
+    "Attack Syndra after she uses Scatter the Weak. Her recovery time is long and she will be vulnerable.",
+    "At max rank, Syndra's spells gain bonus effects and change appearance."
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

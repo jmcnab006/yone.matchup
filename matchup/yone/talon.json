@@ -1,0 +1,22 @@
+{
+  "id": 91,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is pretty easy. Just respect his level 2 powerspike. Don't let him land both parts of his W or you will lose a lot of HP. Pick up an early cloth armor if you think you need it. When he Ws, you can E behind him and dodge the 2nd part; he can't proc his passive if you do this. At level 6, it's a bit harder. But the way you play it remains the same.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Exhaust"
+  ]
+}

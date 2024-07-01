@@ -1,0 +1,28 @@
+{
+  "id": 238,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is a nightmare if the Zed is good. You have to save your E for when he uses W or you'll have trouble dodging anything. You absolutely have to take the escape against Zed or you will die repeatedly. At level 6, you have to play incredibly safe since you have no evasion ability. Grab early cloth armor and steelcaps if their jungler is also AD. You can't Q3 or ultramarine it unless its W and R are on the cooldown because it will dodge them and kill you. Take the exhaust.",
+  "tips": [
+    "Zed benefits from attack damage items he buys; the armor is therefore very effective against him.",
+    "After using Living Shadow, Zed is vulnerable because his damage, slows, and mobility rely on this skill.",
+    "Shadow Slash can only slow you down if Zed's shadow hits you with this skill.",
+    "You can use E to dodge his W > E > Q poke",
+    "Early cloth armor is a must"
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Exhaust"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 57,
+  "difficulty": 2,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Probably the easiest tank matchup. The only way you ever die is if you overextend and he sets up a gank on you. Stay away from the brushes and he doesn't do anything to you. You can break his W and Ult with good E timing or Q3 timing.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

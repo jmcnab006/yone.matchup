@@ -1,0 +1,22 @@
+{
+  "id": 74,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Do not fight him if he has a lot of turrets out; he will chunk most of your HP. Use your E to dodge his E. Be careful using Q3 on him because he can and will just E you and you'll die. He will most likely push you under tower, so just play to farm and scale. You can only go on him when he doesn't have many turrets down and his E is on cooldown.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 136,
+  "difficulty": 2,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is pretty easy, just do your best to not let him poke you with his W or AAs. Most ASols will opt to push and roam, so just farm and ping him mia so your team doesn't die to his roams. You can dodge his Q with proper usage of your E and/or your Q3. When he ults you, you can ult as well and you will not be knocked back because you hit him with it.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite",
+    "Teleport"
+  ]
+}

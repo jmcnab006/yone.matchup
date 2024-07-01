@@ -1,0 +1,22 @@
+{
+  "id": 85,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is very annoying early. He will look to poke you down when you go for cs, so justdon't take free damage. Play safe and play to scale. Short trades are the most effective in this matchup. Pick up an early mantle, similar to the Annie matchup and he can never 100 to 0 you. If against Kennen mid, I would take exhaust as it hard counters his ult.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

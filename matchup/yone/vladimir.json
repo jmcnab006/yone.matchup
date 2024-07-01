@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "A good Vlad can make this lane hell, especially if he goes electrocute. However, Lethal Tempo makes this matchup a lot easier. You can perma engage on him, but do not walk up or try to trade with him when he has his empowered Q. You can put extra points in your E since his W cooldown is so long. Executioner's isn't really needed since you'll most likely take ignite. Early null mantle if you're behind is fine, too.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

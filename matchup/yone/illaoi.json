@@ -1,0 +1,22 @@
+{
+  "id": 420,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup can be very annoying if you can't dodge her Es. Do your best to juke with your own E and the movement speed you get from it to dodge her E and her tentacles. After she get's level 6, instantly disengage unless you know you can kill her. She is insanely strong at level 6. She doesn't really do much if you can dodge her Es however. She still does a lot of damage though. You can only win an all-in if her Ult and her E are down.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

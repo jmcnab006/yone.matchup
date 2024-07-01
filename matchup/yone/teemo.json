@@ -1,0 +1,22 @@
+{
+  "id": 17,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Since the buff to his Q, this matchup is a lot harder. Do not fight him early because of his poison. Play to scale; don't worry about trading with him early. He will out-trade you with Q. Once you get Shieldbow, the lane is a lot easier, however. Get Red Trinket around level 6 so you don't hit his shrooms.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

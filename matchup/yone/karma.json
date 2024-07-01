@@ -1,0 +1,22 @@
+{
+  "id": 43,
+  "difficulty": 6,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is pretty easy. She will never kill you unless you get hit by everything. Her poke is very annoying early but with Doran's Shield and Second Wind it's not much of an issue. Just play to farm and scale. Don't stay in her Mantra W; she will outheal your damage and root you for a while.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

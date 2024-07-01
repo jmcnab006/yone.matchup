@@ -1,0 +1,22 @@
+{
+  "id": 133,
+  "difficulty": 7,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is only annoying early because of her range. You can't E into her or she will just E you in return. Instead, you should E into Q3. Don't let her poke you for free and give up cs when necessary, but do your best to stay in xp range. You outscale her at Shieldbow, so just do your best to farm for it.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

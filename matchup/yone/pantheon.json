@@ -1,0 +1,22 @@
+{
+  "id": 80,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is impossible early game unless he misplays. His kit just counters yours. You have no way to trade with him because of his E. He can just full combo you on repeat and you have no way to react or outplay it. You have to play super safe in this lane or you will die over and over. Do not walk up when he has his passive fully stacked. You really only have a chance after you get Shieldbow, but even then, his champ is just better early game. Play with the goal to scale. Use your W when he Qs or Ws you to dodge some of the damage. You can E his W if you time it correctly.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Teleport"
+  ]
+}

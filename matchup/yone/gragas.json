@@ -1,0 +1,22 @@
+{
+  "id": 79,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "Pretty even matchup. His poke can be oppressive if you don't dodge it. Pretty sure your Q3 cancels his E if you time it right. Do your best to dodge his Q poke and just farm/scale bc realistically u will never kill him until after zerks + zeal bc your Q CD isn't low enough to get consistent nados. Post 6 you can kill him, but just be careful bc he will ult you into his tower.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

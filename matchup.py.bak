@@ -176,8 +176,7 @@ matchup = json_matchup['matchups'][champion]
 #    print("No champion found in source '" + champion +"'")
 #    sys.exit(2)
 
-#cid = matchup['id']
-cid = json_matchup['id']
+cid = matchup['id']
 
 # combine champion data based on id from communitydragon.org
 

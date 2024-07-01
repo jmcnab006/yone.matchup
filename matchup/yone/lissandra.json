@@ -1,0 +1,22 @@
+{
+  "id": 127,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This lane is pretty easy, but you can never really kill her. She plays too safe and she'll just E away if you try to fight her. She has incredible gank setup similar to Galio and Leblanc. I would take Cleanse in this matchup if you're not too confident. Opt for short trades with her. Time your E for her Ult.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

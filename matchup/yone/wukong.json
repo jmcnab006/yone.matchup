@@ -1,0 +1,22 @@
+{
+  "id": 62,
+  "difficulty": 10,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This matchup is near impossible because he is just bruiser Malphite. He will auto you and get armor because of his passive. W when he Es onto you to block some of the damage. Early ninja tabi is really good into Wukong because all of his damage is basic attacks. If he ults you, try to kite out of it with E and Q. Just try to freeze the wave near your tower if you can.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Armor"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

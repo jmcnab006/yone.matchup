@@ -1,0 +1,22 @@
+{
+  "id": 36,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Blade",
+    "Potion"
+  ],
+  "strategy": "This lane is pretty easy, but it can be annoying. Dodge all of his Qs. His passive negates your Q3 as well as your R, so try to get rid of it before you ult him AND make sure you walk over the capsule that pops off when you do. You don't need to rush executioner's anymore becase you out-damage his sustain. Don't hide behind minions that are about to die; he will E them and you will take a lot of damage.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Conditioning",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

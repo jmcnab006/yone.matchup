@@ -1,0 +1,22 @@
+{
+  "id": 518,
+  "difficulty": 8,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is annoying as hell. You can never Q3 into her or she will just E you and full combo you. E back when she channels her ult. If you get hit by her Es at all, prepare to lose lane or most of your HP. Use your ult after she uses her W so you have vision of her. If you hit her when she uses W while you're in your E, the E mark will show the real neeko. Don't let her poke you for free with her autos and her W passive.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Second Wind",
+    "Unflinching",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

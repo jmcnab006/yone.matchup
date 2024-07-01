@@ -1,0 +1,24 @@
+{
+  "id": 517,
+  "difficulty": 4,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is annoying because of his sustain and burst. You can't Q3 into him or he will just E you. Rush vamp scepter to match his sustain. You have to dodge his Qs, especially the 2nd part. Don't take extended trades with him. Hide in between minions so he can't hit you with the second part of his E. Mortal Reminder is a good 2nd item, especially if the enemy team has more healing.",
+  "tips": [
+    "https://www.youtube.com/watch?v=hUXQvHYECnE"
+  ],
+  "build_items": [
+    "Kraken Slayer"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}

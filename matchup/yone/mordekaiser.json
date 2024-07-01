@@ -1,0 +1,23 @@
+{
+  "id": 82,
+  "difficulty": 5,
+  "start_items": [
+    "Doran's Shield",
+    "Potion"
+  ],
+  "strategy": "This matchup is pretty easy if you can dodge his Qs. Never trade without your E because if he stays on you he will probably kill you, but even then, Lethal Tempo is just so broken right now that it probably doesn't even matter. Your E can cancel his ult with proper timing. Don't fight him when his W shield is active. Wait for it to go away, then look to re-engage.",
+  "tips": [],
+  "build_items": [
+    "Kraken Slayer",
+    "Blade of the Ruined King"
+  ],
+  "rune_suggestions": [
+    "Bone Plating",
+    "Overgrowth",
+    "Magic Resist"
+  ],
+  "summoner_spells": [
+    "Flash",
+    "Ignite"
+  ]
+}
