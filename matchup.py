@@ -89,9 +89,63 @@ def printMatchup(data):
     print()
     print(color.CYAN + 'Recommendations:' + color.ENDC)
     print('  {0:<15} {1:<35}'.format("Start:", ",".join(data['start_items'])))
-    print('  {0:<15} {1:<35}'.format("Runes:", ",".join(data['rune_suggestions'])))
-    print('  {0:<15} {1:<35}'.format("Items:", ",".join(data['build_items'])))
-    print('  {0:<15} {1:<35}'.format("Summoners:", ",".join(data['summoner_spells'])))
+
+    # color our runes 
+    primary_tree = data['rune_suggestions']['primary_tree'].lower()
+    secondary_tree = data['rune_suggestions']['secondary_tree'].lower()
+
+    match primary_tree:
+
+        case "domination":
+            runes_major = color.RED + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
+
+        case "inspiration":
+            runes_major = color.CYAN + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
+
+        case "precision":
+            runes_major = color.YELLOW + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
+
+        case "resolve":
+            runes_major = color.GREEN + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
+
+        case "sorcery":
+            runes_major = color.BLUE + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
+
+        case _:
+            runes_major = data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes'])
+
+    match secondary_tree:
+
+        case "domination":
+            runes_minor = color.RED + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
+
+        case "inspiration":
+            runes_minor = color.CYAN + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
+
+        case "precision":
+            runes_minor = color.YELLOW + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
+
+        case "resolve":
+            runes_minor = color.GREEN + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
+
+        case "sorcery":
+            runes_minor = color.BLUE + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
+
+        case _:
+            runes_major = ", ".join(data['rune_suggestions']['minor_runes'])
+
+    #print('  {0:<15} '.format("Runes:"))
+    print('  {0:<15} {1:<35}'.format("Runes:", runes_major + " - " + runes_minor))
+    #print('    {0:<13} {1:<35}'.format("Secondary:", runes_minor ))
+    print()
+    # build our items
+     
+    print('  {0:<15} '.format("Items:"))
+    print('   {0:<14} {1:<35}'.format("Core:", ", ".join(data['build_items']['core'])))
+    print('   {0:<14} {1:<35}'.format("Defensive:", ", ".join(data['build_items']['defense'])))
+    print('   {0:<14} {1:<35}'.format("Situational:", ", ".join(data['build_items']['situational'])))
+    print()
+    print('  {0:<15} {1:<35}'.format("Summoners:", ", ".join(data['summoner_spells'])))
     print()
     strategy = textwrap.wrap(data['strategy'],100)
 
@@ -102,10 +156,12 @@ def printMatchup(data):
     if data['tips']:
         print(color.CYAN + 'General Tips:' + color.ENDC)
         for tip in data['tips']:
-            print('  - {:<15}'.format(tip))
+            print('  * {:<15}'.format(color.BOLD + tip + color.ENDC))
             #print('{0:<15}\n{1:<35}'.format("Tips:", ''.join((f"\t- {i}\n" for i in data['tips']))))
-            print("")
+            #print("")
 
+        print("")
+        
     print(color.CYAN + 'Abilities:' + color.ENDC)
 
     # do our passive
@@ -156,12 +212,12 @@ def printMatchup(data):
 
 if args.local: 
     # f = open("./matchup.json")
-    f = open("./matchup/" + champ1 + "/" + champ2 + ".json")
+    f = open("./matchups/" + champ1 + "/" + champ2 + ".json")
     json_matchup = json.load(f)
 
 else:
     #matchup_url = 'https://raw.githubusercontent.com/jmcnab006/yone.matchup/main/matchup.json'
-    matchup_url = 'https://raw.githubusercontent.com/jmcnab006/yone.matchup/main/matchup/' + champ1 + '/' + champ2 + '.json'
+    matchup_url = 'https://raw.githubusercontent.com/jmcnab006/yone.matchup/main/matchups/' + champ1 + '/' + champ2 + '.json'
     json_matchup = downloadJSON(matchup_url)
 
 # do a partial match else print a no champ found matching string
@@ -171,13 +227,13 @@ else:
 #        champion = key
 
 #if champion in json_matchup['matchups'].keys():
-matchup = json_matchup['matchups'][champion]
+#matchup = json_matchup['matchups'][champion]
 #else:
 #    print("No champion found in source '" + champion +"'")
 #    sys.exit(2)
 
-#cid = matchup['id']
-cid = json_matchup['id']
+matchup = json_matchup
+cid = matchup['id']
 
 # combine champion data based on id from communitydragon.org
 

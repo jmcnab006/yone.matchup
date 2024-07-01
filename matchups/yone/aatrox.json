@@ -12,9 +12,9 @@
     "Do not fight Aatrox in his ult, unless you have greivous he will outheal your damage"
   ],
   "build_items": {
-    "core_items": ["Kraken Slayer", "Berserker's Greaves", "Phantom Dancer"],
-    "defensive_options": ["Guardian Angel", "Sterak's Gage"],
-    "situationals": ["Blade of the Ruined King", "Mortal Reminder"]
+    "core": ["Berserker's Greaves", "Kraken Slayer", "Phantom Dancer"],
+    "defense": ["Guardian Angel", "Sterak's Gage"],
+    "situational": ["Blade of the Ruined King", "Mortal Reminder"]
   },
   "rune_suggestions": {
     "primary_tree": "Precision",
