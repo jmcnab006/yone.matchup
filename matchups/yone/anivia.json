@@ -1,26 +1,24 @@
 {
   "id": 34,
-  "difficulty": 5,
-  "start_items": [
-    "Doran's Blade",
-    "Potion"
-  ],
-  "strategy": "Anivia is annoying, but this matchup is even. You HAVE to dodge her Q or you will take her combo and get chunked. Bait out her Q by E'ing and running to the side. You can also E forward when she walls you. Your E will go behind the wall; use this to escape a gank or with your life. At level 6, most anivias will just perma shove, so you can just play to scale and farm for your items.",
+  "diff": 5,
+  "strat": "Anivia is annoying, but this matchup is even. You HAVE to dodge her Q or you will take her combo and get chunked. Bait out her Q by E'ing and running to the side. You can also E forward when she walls you. Your E will go behind the wall; use this to escape a gank or with your life. At level 6, most anivias will just perma shove, so you can just play to scale and farm for your items.",
   "tips": [
     "Try to gank Anivia on a lane. With multiple people, it's easier to make sure her egg dies.",
     "If you're a ranged champion, staying far enough away from Anivia makes it easier to dodge Ice Spear.",
     "Try to fight Anivia in the lanes. In the jungle, she can block paths with Crystallization."
   ],
-  "build_items": [
-    "Kraken Slayer"
-  ],
-  "rune_suggestions": [
-    "Second Wind",
-    "Unflinching",
-    "Magic Resist"
-  ],
-  "summoner_spells": [
-    "Flash",
-    "Ignite"
-  ]
+  "items": {
+    "start": [ "Doran's Blade", "Health Potion" ],
+    "core": ["Berserker's Greaves", "Kraken Slayer", "Infinity Edge"],
+    "def": ["Jak'Sho The Protean", "Spirit Visage", "Force of Nature"],
+    "sit": ["Steraks Gage", "Mercurial Scimitar", "Wits End"]
+  },
+  "runes": {
+    "pri": "Precision",
+    "sec": "Resolve",
+    "key": "Fleet Footwork",
+    "maj": ["Absorb Life", "Legend: Alacrity", "Last Stand"],
+    "min": ["Overgrowth", "Second Wind"]
+  },
+  "sums": ["Flash", "Teleport"]
 }

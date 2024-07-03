@@ -1,8 +1,7 @@
 {
   "id": 266,
-  "difficulty": 5,
-  "start_items": [ "Doran's Blade", "Health Potion" ],
-  "strategy": "Don't trade with Aatrox when he has his passive active. It has a very long cooldown, so whenever he uses, look to trade with him. Do your best to dodge his sweet spots or you will take a lot of damage. If you get hit by his W, you can E out of it, to the side and back. Don't fight him in his ult, unless you already have grevious wounds. He will outheal your damage.",
+  "diff": 5,
+  "strat": "Don't trade with Aatrox when he has his passive active. It has a very long cooldown, so whenever he uses, look to trade with him. Do your best to dodge his sweet spots or you will take a lot of damage. If you get hit by his W, you can E out of it, to the side and back. Don't fight him in his ult, unless you already have grevious wounds. He will outheal your damage.",
   "tips": [
     "Do not trade with Aatrox when it has his passive active. It has a very long cooldown. Trade when its down",
     "For his first Q, the sweet spot is at the farthest edge in the middle. You should dodge this ability by moving to the side.",
@@ -11,17 +10,18 @@
     "If you get hit by his W you can walk or E out of it to the side and back",
     "Do not fight Aatrox in his ult, unless you have greivous he will outheal your damage"
   ],
-  "build_items": {
-    "core": ["Berserker's Greaves", "Kraken Slayer", "Phantom Dancer"],
-    "defense": ["Guardian Angel", "Sterak's Gage"],
-    "situational": ["Blade of the Ruined King", "Mortal Reminder"]
+  "items": {
+    "start": [ "Doran's Blade", "Health Potion" ],
+    "core": ["Berserker's Greaves", "Kraken Slayer", "Blade of the Ruined King"],
+    "def": ["Jak'Sho The Protean", "Iceborn Guantlet"],
+    "sit": ["Mortal Reminder"]
   },
-  "rune_suggestions": {
-    "primary_tree": "Precision",
-    "keystone": "Conqueror",
-    "major_runes": ["Triumph", "Legend: Alacrity", "Last Stand"],
-    "secondary_tree": "Resolve",
-    "minor_runes": ["Second Wind", "Unflinching"]
+  "runes": {
+    "pri": "Precision",
+    "sec": "Resolve",
+    "key": "Fleet Footwork",
+    "maj": ["Absorb Life", "Legend: Alacrity", "Cut Down"],
+    "min": ["Overgrowth", "Demolish"]
   },
-  "summoner_spells": ["Flash", "Teleport"]
+  "sums": ["Flash", "Teleport"]
 }

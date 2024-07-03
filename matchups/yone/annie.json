@@ -1,24 +1,24 @@
 {
   "id": 1,
-  "difficulty": 8,
-  "start_items": [ "Doran's Shield", "Health Potion" ],
-  "strategy": "Rush null-magic mantle in this matchup and she will never one-shot you with her combo. Use your W when she Qs you to mitigate some damage during the trade. She will look to harass you with her long range AAs. Look to all-in her as soon as she uses her stun passive. Focus on farming safely and avoid trading when Annie's stun is up.",
+  "diff": 8,
+  "strat": "Rush null-magic mantle in this matchup and she will never one-shot you with her combo. Use your W when she Qs you to mitigate some damage during the trade. She will look to harass you with her long range AAs. Look to all-in her as soon as she uses her stun passive. Focus on farming safely and avoid trading when Annie's stun is up.",
   "tips": [
     "Annie's bear, Tibbers, burns enemies around him. Keep your distance when summoned.",
     "Trade after Annie uses her stun or misses her abilities.",
     "Utilize Doran's Shield for sustain against Annie's poke."
   ],
-  "build_items": { 
-    "core_items": ["Kraken Slayer", "Berserker's Greaves", "Phantom Dancer"],
-    "defensive_options": ["Guardian Angel", "Sterak's Gage"],
-    "situationals": ["Blade of the Ruined King", "Mortal Reminder"]
+  "items": {
+    "start": [ "Doran's Shield", "Health Potion" ],
+    "core": ["Berserker's Greaves", "Kraken Slayer", "Infinity Edge"],
+    "def": ["Jak'Sho The Protean", "Spirit Visage", "Force of Nature"],
+    "sit": ["Maw Of Malmortius", "Mercurial Scimitar"]
   },
-  "rune_suggestions": {
-    "primary_tree": "Precision",
-    "keystone": "Conqueror",
-    "major_runes": ["Absorb Life", "Legend: Alacrity", "Last Stand"],
-    "secondary_tree": "Resolve",
-    "minor_runes": ["Second Wind", "Unflinching"]
+  "runes": {
+    "pri": "Precision",
+    "sec": "Resolve",
+    "key": "Fleet Footwork",
+    "maj": ["Absorb Life", "Legend: Alacrity", "Last Stand"],
+    "min": ["Overgrowth", "Second Wind"]
   },
-  "summoner_spells": [ "Flash", "Teleport" ]
+  "sums": ["Flash", "Teleport"]
 }

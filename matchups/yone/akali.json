@@ -1,27 +1,24 @@
 {
   "id": 84,
-  "difficulty": 8,
-  "start_items": [
-    "Doran's Blade",
-    "Potion"
-  ],
-  "strategy": "Akali is annoying because of her Q spam, shroud, and dashes. Never Q3 into her when she has E up, or she'll just dodge it; her E will chunk you and you'll be in kill range. Do your best to dodge her Q poke early game. A huge chunk of HP is not worth that one cs. Use your E before you have Q3 so you can hit her more easily. Early null-magic mantle is good especially if the lane is even.",
+  "diff": 8,
+  "strat": "Akali is annoying because of her Q spam, shroud, and dashes. Never Q3 into her when she has E up, or she'll just dodge it; her E will chunk you and you'll be in kill range. Do your best to dodge her Q poke early game. A huge chunk of HP is not worth that one cs. Use your E before you have Q3 so you can hit her more easily. Early null-magic mantle is good especially if the lane is even.",
   "tips": [
     "When Akali is cloaked by Nebulous Shroud, she can still be hit by area effects. This momentarily reveals his position.",
     "Akali's Kunais Wave is powerful when used at maximum range and with maximum energy. Attack her when she has low energy left to increase your chances of winning your trades.",
     "Return to base if your HP is low and if Akali has her ultimate."
   ],
-  "build_items": [
-    "Kraken Slayer"
-  ],
-  "rune_suggestions": [
-    "Conditioning",
-    "Overgrowth",
-    "Magic Resist"
-  ],
-  "summoner_spells": [
-    "Flash",
-    "Teleport (safe)",
-    "Ignite"
-  ]
+  "items": {
+    "start": [ "Doran's Blade", "Health Potion" ],
+    "core":  [ "Berserker's Greaves", "Kraken Slayer", "Infinity Edge" ],
+    "def":   [ "Jak'Sho The Protean", "Spirit Visage", "Force of Nature" ],
+    "sit":   [ "Maw Of Malmortius", "Mercurial Scimitar" ]
+  },
+  "runes": {
+    "pri": "Precision",
+    "sec": "Resolve",
+    "key": "Fleet Footwork",
+    "maj": ["Absorb Life", "Legend: Alacrity", "Last Stand"],
+    "min": ["Overgrowth", "Second Wind"]
+  },
+  "sums": ["Flash", "Teleport"]
 }

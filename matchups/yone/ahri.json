@@ -1,26 +1,25 @@
 {
   "id": 103,
-  "difficulty": 9,
-  "start_items": [ "Doran's Shield", "Potion" ],
-  "strategy": "Don't ever Q3 into her if she has charm up. You will take her full combo to the face and die. Do your best to dodge her Q poke early game, especially the return which is true damage. At level 6, it's harder to kill her because she's so mobile. Bait out her charm and then look for short trades or an all-in if you can. Never ult into her if she has her ult up, or she will just ult away and live.",
+  "diff": 9,
+  "strat": "Don't ever Q3 into her if she has charm up. You will take her full combo to the face and die. Do your best to dodge her Q poke early game, especially the return which is true damage. At level 6, it's harder to kill her because she's so mobile. Bait out her charm and then look for short trades or an all-in if you can. Never ult into her if she has her ult up, or she will just ult away and live.",
   "tips": [
     "Ahri's survival skills are considerably reduced when her ultimate skill, Spiritual assault, is not available.",
     "Ahri is all about her charm. Stand behind minions or predict the way she’ll throw it so she can’t hit you with a big combo.",
     "Be sure to ward often. Ahri likes to roam quite a bit, and if your team doesn’t see it coming it can be devastating.",
     "Try and Q into her and E at an angle to dodge her charm."
   ],
-    "build_items": {
-    "core_items": ["Kraken Slayer", "Berserker's Greaves", "Phantom Dancer"],
-    "defensive_options": ["Guardian Angel", "Sterak's Gage"],
-    "situationals": ["Blade of the Ruined King", "Mortal Reminder"]
+  "items": {
+    "start": [ "Doran's Shield", "Health Potion" ],
+    "core": ["Berserker's Greaves", "Kraken Slayer", "Infinity Edge"],
+    "def": ["Jak'Sho The Protean", "Spirit Visage", "Force of Nature"],
+    "sit": ["Maw Of Malmortius", "Mercurial Scimitar"]
   },
-  "rune_suggestions": {
-    "primary_tree": "Precision",
-    "keystone": "Conqueror",
-    "major_runes": ["Absorb Life", "Legend: Alacrity", "Last Stand"],
-    "secondary_tree": "Resolve",
-    "minor_runes": ["Second Wind", "Overgrowth"]
+  "runes": {
+    "pri": "Precision",
+    "sec": "Resolve",
+    "key": "Fleet Footwork",
+    "maj": ["Absorb Life", "Legend: Alacrity", "Last Stand"],
+    "min": ["Overgrowth", "Second Wind"]
   },
-  "summoner_spells": ["Flash", "Teleport"]
-}
+  "sums": ["Flash", "Teleport"]
 }

@@ -1,27 +1,24 @@
 {
   "id": 31,
-  "difficulty": 4,
-  "start_items": [
-    "Doran's Blade",
-    "Potion"
-  ],
-  "strategy": "Tank Cho'Gath is a lot easier than AP Cho'Gath. He is very susceptible to ganks, so try to freeze the wave at your tower and call for jungle help. Always keep moving when he silences you to dodge his Q. Use your W when he Ws you. Dodge his E poke as well. If you ever see him ult, you can win the all-in. If he has ult, do not try to all-in him.",
+  "diff": 4,
+  "strat": "Tank Cho'Gath is a lot easier than AP Cho'Gath. He is very susceptible to ganks, so try to freeze the wave at your tower and call for jungle help. Always keep moving when he silences you to dodge his Q. Use your W when he Ws you. Dodge his E poke as well. If you ever see him ult, you can win the all-in. If he has ult, do not try to all-in him.",
   "tips": [
     "Buying a few HP items reduces the chance that Cho'Gath will kill you quickly.",
     "Prevent Cho'Gath from reaching its maximum size.",
     "A cloud of smoke indicates the area Rupture will hit. Stay tuned to prevent Cho'Gath from combining skills."
   ],
-  "build_items": [
-    "Kraken Slayer",
-    "Blade of the Ruined King"
-  ],
-  "rune_suggestions": [
-    "Conditioning",
-    "Overgrowth",
-    "Magic Resist"
-  ],
-  "summoner_spells": [
-    "Flash",
-    "Ignite"
-  ]
+  "items": {
+    "start": [ "Doran's Blade", "Health Potion" ],
+    "core": ["Berserker's Greaves", "Blade of the Ruined King", "Kraken Slayer"],
+    "def": ["Jak'Sho The Protean", "Spirit Visage", "Force of Nature"],
+    "sit": ["Steraks Gage", "Eclipse", "Wits End"]
+  },
+  "runes": {
+    "pri": "Precision",
+    "sec": "Resolve",
+    "key": "Fleet Footwork",
+    "maj": ["Absorb Life", "Legend: Alacrity", "Cut Down"],
+    "min": ["Overgrowth", "Bone Plating"]
+  },
+  "sums": ["Flash", "Teleport"]
 }

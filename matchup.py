@@ -74,80 +74,57 @@ def printMatchup(data):
     print(color.CYAN + 'Matchup:' + color.ENDC)
     print('  {0:<15} {1:<35}'.format("Matchup:", color.BOLD + color.ITALIC + data['name'] + color.ENDC + " - '" + color.PURPLE + data['title'] + color.ENDC + "'"))
 
-    difficulty = data['difficulty'] 
+    difficulty = data['diff'] 
     if difficulty in range(1, 3):
-        print('  {0:<15} {1:<35}'.format("Difficulty:", color.GREEN + str(data['difficulty']) + color.ENDC ))
+        print('  {0:<15} {1:<35}'.format("Difficulty:", color.GREEN + str(data['diff']) + color.ENDC ))
     elif difficulty in range(4, 5):
-        print('  {0:<15} {1:<35}'.format("Difficulty:", color.BLUE + str(data['difficulty']) + color.ENDC ))
+        print('  {0:<15} {1:<35}'.format("Difficulty:", color.BLUE + str(data['diff']) + color.ENDC ))
     elif difficulty in range(6, 7):
-        print('  {0:<15} {1:<35}'.format("Difficulty:", color.YELLOW + str(data['difficulty']) + color.ENDC ))
+        print('  {0:<15} {1:<35}'.format("Difficulty:", color.YELLOW + str(data['diff']) + color.ENDC ))
     else:
-        print('  {0:<15} {1:<35}'.format("Difficulty:", color.RED + str(data['difficulty']) + color.ENDC ))
+        print('  {0:<15} {1:<35}'.format("Difficulty:", color.RED + str(data['diff']) + color.ENDC ))
     
     print('  {0:<15} {1:<35}'.format("Roles:", ",".join(data['roles'])))
     print('  {0:<15} {1:<35}'.format("Playstyle:", ''.join((f"{k}: {v}  " for k, v in data['playstyleInfo'].items()))))
     print()
     print(color.CYAN + 'Recommendations:' + color.ENDC)
-    print('  {0:<15} {1:<35}'.format("Start:", ",".join(data['start_items'])))
 
     # color our runes 
-    primary_tree = data['rune_suggestions']['primary_tree'].lower()
-    secondary_tree = data['rune_suggestions']['secondary_tree'].lower()
+    pri = data['runes']['pri'].lower()
+    sec = data['runes']['sec'].lower()
 
-    match primary_tree:
 
-        case "domination":
-            runes_major = color.RED + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
+    # doing this for backwards compatibility 
 
-        case "inspiration":
-            runes_major = color.CYAN + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
+    def color_runes(tree, data ):
+        return {
+            'domination': color.RED + data + color.ENDC,
+            'inspiration': color.CYAN + data + color.ENDC,
+            'precision': color.YELLOW + data + color.ENDC,
+            'resolve': color.GREEN + data + color.ENDC,
+            'sorcery': color.BLUE + data + color.ENDC,
+        }[tree]
 
-        case "precision":
-            runes_major = color.YELLOW + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
-
-        case "resolve":
-            runes_major = color.GREEN + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
-
-        case "sorcery":
-            runes_major = color.BLUE + data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes']) + color.ENDC
-
-        case _:
-            runes_major = data['rune_suggestions']['keystone'] + ", " + ", ".join(data['rune_suggestions']['major_runes'])
-
-    match secondary_tree:
-
-        case "domination":
-            runes_minor = color.RED + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
-
-        case "inspiration":
-            runes_minor = color.CYAN + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
-
-        case "precision":
-            runes_minor = color.YELLOW + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
-
-        case "resolve":
-            runes_minor = color.GREEN + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
-
-        case "sorcery":
-            runes_minor = color.BLUE + ", ".join(data['rune_suggestions']['minor_runes']) + color.ENDC
-
-        case _:
-            runes_major = ", ".join(data['rune_suggestions']['minor_runes'])
-
+#   match pri:
+#        case "domination":
+#            runes_major = color.RED + data['runes']['key'] + ", " + ", ".join(data['runes']['maj']) + color.ENDC
+    runes_major = color_runes( data['runes']['pri'].lower(), data['runes']['key'] + ", " + ", ".join(data['runes']['maj']) )
+    runes_minor = color_runes( data['runes']['sec'].lower(), ", ".join(data['runes']['min']) )
     #print('  {0:<15} '.format("Runes:"))
     print('  {0:<15} {1:<35}'.format("Runes:", runes_major + " - " + runes_minor))
     #print('    {0:<13} {1:<35}'.format("Secondary:", runes_minor ))
-    print()
+    #print()
     # build our items
      
     print('  {0:<15} '.format("Items:"))
-    print('   {0:<14} {1:<35}'.format("Core:", ", ".join(data['build_items']['core'])))
-    print('   {0:<14} {1:<35}'.format("Defensive:", ", ".join(data['build_items']['defense'])))
-    print('   {0:<14} {1:<35}'.format("Situational:", ", ".join(data['build_items']['situational'])))
+    print('   {0:<14} {1:<35}'.format("Start:", ", ".join(data['items']['start'])))
+    print('   {0:<14} {1:<35}'.format("Core:", ", ".join(data['items']['core'])))
+    print('   {0:<14} {1:<35}'.format("Defensive:", ", ".join(data['items']['def'])))
+    print('   {0:<14} {1:<35}'.format("Situational:", ", ".join(data['items']['sit'])))
     print()
-    print('  {0:<15} {1:<35}'.format("Summoners:", ", ".join(data['summoner_spells'])))
+    print('  {0:<15} {1:<35}'.format("Summoners:", ", ".join(data['sums'])))
     print()
-    strategy = textwrap.wrap(data['strategy'],100)
+    strategy = textwrap.wrap(data['strat'],100)
 
     print(color.CYAN + 'Strategy:' + color.ENDC)
     print("  " + "\n  ".join(strategy))
